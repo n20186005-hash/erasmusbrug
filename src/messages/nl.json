@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "title": "Erasmusbrug Rotterdam | Iconische Basculebrug - Must-See Attractie",
+    "description": "Complete gids voor de Erasmusbrug in Rotterdam, Nederland. Ontdek deze iconische basculebrug, de geschiedenis, bezienswaardigheden en bezoekersinformatie. Geniet van het prachtige uitzicht over de Maas."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galerij",
+    "reviews": "Beoordelingen",
+    "map": "Kaart",
+    "backToHome": "Terug naar Home"
+  },
+  "hero": {
+    "title": "Erasmusbrug",
+    "subtitle": "Iconische Basculebrug in Rotterdam - Geniet van het Prachtige Uitzicht over de Maas",
+    "rating": "4.7(16,132)",
+    "reviewCount": "16.132 beoordelingen",
+    "type": "Basculebrug · Rotterdam Must-See",
+    "openMaps": "Bekijk Locatie"
+  },
+  "intro": {
+    "title": "Ontdek de Erasmusbrug",
+    "description": "De Erasmusbrug is een iconische basculebrug gelegen in Rotterdam, Nederland. Deze brug staat bekend om zijn unieke architectuur en is een van de meest herkenbare symbolen van Rotterdam.\n\nDe brug overspant de Nieuwe Maas en verbindt het noorden en zuiden van de stad. Met zijn imposante witte pijler en asymmetrische kabelverdeling is de Erasmusbrug een meesterwerk van moderne ingenieurskunst.\n\nOf u nu een wandeling maakt over de brug, de zonsondergang bewondert vanaf de oever, of de brug bewondert vanaf een rondvaartboot, de Erasmusbrug biedt u een onvergetelijke ervaring. De brug is ook een populaire locatie voor evenementen zoals de Marathon van Rotterdam.",
+    "visitGuide": {
+      "title": "Bezoektips",
+      "items": [
+        "De brug is gratis toegankelijk, 24/7 geopend",
+        "Bezoek in de vroege ochtend of bij zonsondergang voor de beste foto's",
+        "Wandel over de brug voor een prachtig uitzicht over de skyline van Rotterdam",
+        "Combineer uw bezoek met een bezoek aan de Kop van Zuid"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Brug Kenmerken",
+      "items": [
+        "Een van de meest iconische bruggen van Nederland",
+        "Unieke architectuur met de kenmerkende witte pijler",
+        "Verbindt het noorden en zuiden van Rotterdam",
+        "Populaire locatie voor evenementen en foto's"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Over de Erasmusbrug",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Brug Geschiedenis",
+        "content": "De Erasmusbrug is ontworpen door de beroemde architect Ben van Berkel van UNStudio. De bouw begon in 1986 en de brug werd officieel geopend in 1996 door Koningin Beatrix.\n\nDe brug is vernoemd naar Desiderius Erasmus, de beroemde humanist en theoloog uit de 15e eeuw. Met een lengte van 802 meter en een breedte van 33 meter is het een indrukwekkend bouwwerk dat de skyline van Rotterdam aanzienlijk heeft veranderd."
+      },
+      {
+        "id": "features",
+        "title": "Brug Kenmerken",
+        "content": "De Erasmusbrug beschikt over unieke kenmerken:\n\n• Een imposante witte pijler van 139 meter hoog\n• Asymmetrische kabelverdeling (één grote pijler)\n• Een bascule (beweegbaar deel) voor scheepvaart\n• Twee fiets- en voetgangersbruggen aan weerszijden\n• Prachtige verlichting 's nachts\n\nDeze kenmerken maken de Erasmusbrug tot een van de meest gefotografeerde locaties in Rotterdam."
+      },
+      {
+        "id": "location",
+        "title": "Locatie",
+        "content": "De brug is strategisch gelegen in het centrum van Rotterdam en overspant de Nieuwe Maas. Het verbindt het centraal station gebied met de Kop van Zuid.\n\nVanaf de brug heeft u een prachtig uitzicht op de Rotterdamse skyline, inclusief de Witte Huis, de Euromast en de Wilhelminapier. De brug is goed bereikbaar met het openbaar vervoer en ligt op loopafstand van het centraal station."
+      },
+      {
+        "id": "events",
+        "title": "Evenementen",
+        "content": "De Erasmusbrug is niet alleen een belangrijke verkeersader, maar ook een populaire locatie voor evenementen:\n\n• Marathon van Rotterdam - de finish ligt op de Erasmusbrug\n• Rotterdamse Havendagen - speciale verlichting en activiteiten\n• Fotografie en filmopnames - veelvuldig gebruikt als filmlocatie\n• Hardloop-evenementen en charity runs\n\nBezoek de officiële website van Rotterdam voor de meest actuele evenementenagenda."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basisinformatie",
+    "officialName": "Officiële Naam",
+    "officialNameValue": "Erasmusbrug",
+    "type": "Brug Type",
+    "typeValue": "Basculebrug, Rotterdam Must-See, Zuid-Holland Attractie",
+    "country": "Land",
+    "countryValue": "Nederland",
+    "city": "Stad",
+    "cityValue": "Rotterdam, Zuid-Holland",
+    "googleRating": "Google Beoordeling",
+    "address": "Adres",
+    "addressValue": "Erasmusbrug, 3011 BN Rotterdam, Nederland"
+  },
+  "hours": {
+    "title": "Toegankelijkheid",
+    "park": "Brug Toegankelijk",
+    "parkTime": "24/7 Geopend",
+    "bestTime": "Beste Tijd om te Bezoeken",
+    "bestTimeSpring": "Ochtend (7-9 uur): Rustige sfeer, prachtig ochtendlicht",
+    "bestTimeSummer": "Avond (20-22 uur): Bewonder de verlichte skyline en zonsondergang",
+    "bestTimeAutumn": "Hele dag: Aangename temperatuur, ideaal voor fotografie",
+    "bestTimeWinter": "Middag (12-15 uur): Kortste dag, maar mooi winterlicht",
+    "tip": "Bekijk de officiële website van Rotterdam voor de meest actuele informatie"
+  },
+  "tickets": {
+    "title": "Toegangsinformatie",
+    "park": "Brug Toegang",
+    "parkPrice": "Volledig gratis, geen toegangsbewijs nodig",
+    "parking": "Parkeerkosten",
+    "parkingPrice": "Betaald parkeren in de omgeving, check parkeerzones",
+    "guided": "Gidsen",
+    "guidedPrice": "Gratis, zelfstandig bezoek mogelijk"
+  },
+  "transport": {
+    "title": "Hoe te Komen",
+    "fromCenter": "Vanaf Rotterdam Centraal",
+    "fromCenterDesc": "Loop ongeveer 15-20 minuten via de Willemsbrug of neem tram 20 naar de Kop van Zuid. De Erasmusbrug ligt op loopafstand van het station.",
+    "fromStation": "Vanaf omliggende steden",
+    "fromStationDesc": "Neem de trein naar Rotterdam Centraal vanuit Den Haag, Amsterdam etc, dan loop of neem tram.",
+    "fromAirport": "Vanaf Rotterdam The Hague Airport",
+    "fromAirportDesc": "Neem de bus naar Rotterdam Centraal, dan tram 20 of loop 15 minuten naar de brug.",
+    "publicTransport": "Openbaar Vervoer",
+    "publicTransportDesc": "Tram 20, 23 en 25 stoppen nabij de Erasmusbrug. Metrostation Wilhelminaplein ligt op 5 minuten loopafstand.",
+    "walking": "Wandelen of Fietsen",
+    "walkingDesc": "De brug is uitstekend te voet of per fiets bereikbaar. Er zijn aparte fietspaden op de brug.",
+    "driving": "Met de Auto & Parkeren",
+    "drivingDesc": "Parkeren in de omgeving is betaald. P+R locaties bieden goedkopere opties. De brug zelf is niet toegankelijk voor auto's."
+  },
+  "route": {
+    "title": "Aanbevolen Bezoekroute",
+    "overview": "De Erasmusbrug is perfect voor een halve dag of dagje uit. We raden aan om in de ochtend te komen voor rustige foto's, 's middags de omgeving te verkennen, en 's avonds te genieten van de verlichte skyline. Reken op ongeveer 2-3 uur voor het hele bezoek.",
+    "steps": [
+      "Kom aan bij de Erasmusbrug in de ochtend, loop over de brug voor een prachtig uitzicht",
+      "Bezoek de Kop van Zuid aan de zuidzijde van de brug",
+      "Maak foto's van de iconische witte pijler vanaf de oever",
+      "Geniet van een lunch in een van de restaurants aan de Wilhelminapier",
+      "Bezoek het Rotterdamse havengebied en leer over de maritime geschiedenis",
+      "Wandel terug over de brug tijdens de gouden uren voor de beste foto's",
+      "Bewonder de verlichting van de brug 's avonds",
+      "Eindig uw dag met een drankje op een van de rooftop bars in het centrum"
+    ]
+  },
+  "photoSpots": {
+    "title": "Beste Fotoplekken",
+    "spots": [
+      {
+        "name": "Oeverzicht",
+        "desc": "Fotografeer de hele brug vanaf de noordoever, met de skyline op de achtergrond"
+      },
+      {
+        "name": "Witte Pijler",
+        "desc": "Close-up foto's van de imposante 139 meter hoge witte pijler"
+      },
+      {
+        "name": "Kop van Zuid",
+        "desc": "Zicht op de brug vanaf de Kop van Zuid, met historische gebouwen op de voorgrond"
+      },
+      {
+        "name": "Zonsondergang",
+        "desc": "De brug bij zonsondergang, met prachtige kleuren aan de horizon"
+      },
+      {
+        "name": "Nachtverlichting",
+        "desc": "De brug 's nachts, met sfeervolle verlichting en weerspiegeling in het water"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotogalerij",
+    "subtitle": "Erasmusbrug - Rotterdam Iconische Basculebrug",
+    "captions": [
+      "Brug Zicht 1",
+      "Brug Zicht 2",
+      "Brug Zicht 3",
+      "Brug Zicht 4",
+      "Brug Zicht 5",
+      "Brug Zicht 6",
+      "Brug Zicht 7",
+      "Brug Zicht 8",
+      "Brug Zicht 9",
+      "Brug Zicht 10",
+      "Brug Zicht 11",
+      "Brug Zicht 12",
+      "Brug Zicht 13",
+      "Brug Zicht 14",
+      "Brug Zicht 15"
+    ],
+    "viewAll": "Bekijk op Google Maps",
+    "showAll": "Alle Foto's Bekijken",
+    "showLess": "Minder Tonen"
+  },
+  "reviews": {
+    "title": "Bezoekersbeoordelingen",
+    "declaration": "Beoordelingen zijn te bekijken via Google Maps (externe link).",
+    "moreReviews": "Meer beoordelingen op Google Maps"
+  },
+  "mapSection": {
+    "title": "Locatie & Route",
+    "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Nederland",
+    "openMaps": "Bekijk op Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Erasmusbrug Onafhankelijke Toeristische Onderzoeksvereniging · Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Gebruiksvoorwaarden",
+    "cookies": "Cookie Instellingen",
+    "officialResourcesTitle": "Gerelateerde Bronnen & Informatie",
+    "officialLinks": {
+      "rotterdam": "Gemeente Rotterdam",
+      "zuidHolland": "Provincie Zuid-Holland",
+      "cultureelErfgoed": "Cultureel Erfgoed",
+      "rotterdamInfo": "Rotterdam Info",
+      "overheid": "Nederlandse Overheid",
+      "nederlandWereldwijd": "Nederland Wereldwijd"
+    },
+    "disclaimer": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. Wij zijn niet gelieerd aan de lokale overheid of andere officiële instellingen."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: Mei 2026",
+    "sections": [
+      {
+        "heading": "1. Informatieverzameling",
+        "content": "Wij verzamelen over het algemeen geen persoonlijk identificeerbare informatie van gebruikers. Informatie die u verstrekt via contactformulieren of e-mails wordt strikt vertrouwelijk behandeld."
+      },
+      {
+        "heading": "2. Gebruik van Informatie",
+        "content": "De informatie die wij verzamelen wordt uitsluitend gebruikt om onze diensten te verlenen, te onderhouden en te verbeteren, en om met u te communiceren. Wij verkopen of delen uw persoonlijke informatie niet met derden voor marketingdoeleinden."
+      },
+      {
+        "heading": "3. Cookies en Tracking",
+        "content": "Wij gebruiken cookies en soortgelijke trackingtechnologieën om de activiteit op onze website bij te houden en bepaalde informatie op te slaan. U kunt uw browser instrueren om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden."
+      },
+      {
+        "heading": "4. Gegevensbeveiliging",
+        "content": "De beveiliging van uw gegevens is belangrijk voor ons. Wij gebruiken commercieel aanvaardbare middelen om uw persoonsgegevens te beschermen, hoewel geen enkele methode van verzending via internet 100% veilig is."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Gebruiksvoorwaarden",
+    "lastUpdated": "Laatst bijgewerkt: Mei 2026",
+    "sections": [
+      {
+        "heading": "1. Aanvaarding van Voorwaarden",
+        "content": "Door toegang te krijgen tot en gebruik te maken van deze website, gaat u ermee akkoord gebonden te zijn aan deze gebruiksvoorwaarden. Als u niet akkoord gaat met enig deel van de voorwaarden, mag u geen toegang krijgen tot de dienst."
+      },
+      {
+        "heading": "2. Gebruik van Dienst",
+        "content": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. De verstrekte informatie is uitsluitend bedoeld als algemene informatie. U gaat ermee akkoord de site op een verantwoordelijke en wettelijke manier te gebruiken."
+      },
+      {
+        "heading": "3. Intellectueel Eigendom",
+        "content": "Alle inhoud op deze website, inclusief teksten, afbeeldingen en logo's, is eigendom van de eigenaar van de website, tenzij anders vermeld. Ongeautoriseerd gebruik, reproductie of distributie is ten strengste verboden."
+      },
+      {
+        "heading": "4. Beperking van Aansprakelijkheid",
+        "content": "Wij zijn niet aansprakelijk voor enige directe, indirecte, incidentele of gevolgschade die voortvloeit uit het gebruik van of de onmogelijkheid om deze website of de daarin opgenomen informatie te gebruiken."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Instellingen",
+    "description": "Beheer uw cookie-voorkeuren.",
+    "essential": {
+      "title": "Essentiële Cookies",
+      "description": "Vereist voor basale websitefunctionaliteit.",
+      "badge": "Altijd actief"
+    },
+    "analytics": {
+      "title": "Analytische Cookies",
+      "description": "Helpen ons te begrijpen hoe bezoekers met de site interactie hebben."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Gebruikt om bezoekers op websites te volgen."
+    },
+    "save": "Voorkeuren Opslaan",
+    "saved": "Voorkeuren opgeslagen!"
+  },
+  "officialManagement": {
+    "title": "Over de Erasmusbrug",
+    "text": "De Erasmusbrug is een iconische basculebrug gelegen in Rotterdam, Nederland. De brug is ontworpen door Ben van Berkel en werd geopend in 1996.\n\nDeze brug beschikt over unieke architectuur met een imposante witte pijler van 139 meter hoog. Het is een van de meest herkenbare symbolen van Rotterdam en een populaire toeristische attractie."
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Erasmusbrug 伊拉斯谟桥｜鹿特丹地标 - 必游景点",
+    "description": "探索荷兰鹿特丹市 Erasmusbrug（伊拉斯谟桥）的完整指南。了解这座标志性吊桥的历史、建筑特色和游览信息。欣赏马斯基夫河的壮丽景色。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Erasmusbrug",
+    "subtitle": "鹿特丹地标 - 欣赏马斯基夫河的壮丽景色",
+    "rating": "4.7(16,132)",
+    "reviewCount": "16,132 条评价",
+    "type": "吊桥 · 鹿特丹必游",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Erasmusbrug",
+    "description": "Erasmusbrug（伊拉斯谟桥）是位于荷兰鹿特丹市的一座标志性吊桥。这座桥以其独特的建筑风格而闻名，是鹿特丹最易识别的象征之一。\n\n大桥横跨马斯基夫河，连接城市的北部和南部。其引人注目的白色桥塔和不对称的缆索分布使 Erasmusbrug 成为现代工程艺术的杰作。\n\n无论您是步行过桥欣赏鹿特丹天际线，还是在岸边观赏日落，亦或是从观光船上欣赏大桥，Erasmusbrug 都能为您提供难忘的体验。这座桥也是鹿特丹马拉松等活动的热门地点。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "大桥免费开放，24/7 均可通行",
+        "建议清晨或日落时分前往，拍摄效果最佳",
+        "步行过桥可欣赏鹿特丹天际线的壮丽景色",
+        "可结合参观 Kop van Zuid 地区"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "桥梁特色",
+      "items": [
+        "荷兰最具标志性的桥梁之一",
+        "独特的建筑风格，拥有标志性的白色桥塔",
+        "连接鹿特丹北部和南部",
+        "热门的活动举办地和摄影地点"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 Erasmusbrug",
+    "sections": [
+      {
+        "id": "history",
+        "title": "桥梁历史",
+        "content": "Erasmusbrug 由著名建筑师 Ben van Berkel（UNStudio）设计。建设始于 1986 年，大桥于 1996 年由贝娅特丽克丝女王正式揭幕。\n\n这座桥以 15 世纪著名的人文主义者和神学家伊拉斯谟（Desiderius Erasmus）命名。大桥全长 802 米，宽 33 米，是一个令人印象深刻的建筑作品，显著改变了鹿特丹的天际线。"
+      },
+      {
+        "id": "features",
+        "title": "桥梁特色",
+        "content": "Erasmusbrug 拥有独特的特色：\n\n• 一座高达 139 米的引人注目的白色桥塔\n• 不对称的缆索分布（单个大型桥塔）\n• 供航运使用的吊桥（可移动部分）\n• 两侧各有一座自行车和行人桥\n• 夜晚的美丽灯光秀\n\n这些特色使 Erasmusbrug 成为鹿特丹拍摄最多的地点之一。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置",
+        "content": "大桥战略性地位于鹿特丹市中心，横跨马斯基夫河。它连接中央车站地区和 Kop van Zuid。\n\n从桥上可以欣赏到鹿特丹天际线的壮丽景色，包括白屋、欧洲塔和 Wilhelminapier。大桥可以通过公共交通轻松到达，距离中央车站仅几步之遥。"
+      },
+      {
+        "id": "events",
+        "title": "活动举办",
+        "content": "Erasmusbrug 不仅是一个重要的交通枢纽，也是活动的热门地点：\n\n• 鹿特丹马拉松 - 终点设在 Erasmusbrug\n• 鹿特丹港口日 - 特殊灯光和活动\n• 摄影和电影拍摄 - 经常用作拍摄地点\n• 跑步活动和慈善跑\n\n请访问鹿特丹官方网站获取最新的活动日程。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Erasmusbrug（伊拉斯谟桥）",
+    "type": "景点类型",
+    "typeValue": "吊桥、鹿特丹必游、南荷兰省景点",
+    "country": "国家",
+    "countryValue": "荷兰",
+    "city": "城市",
+    "cityValue": "鹿特丹，南荷兰省",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "Erasmusbrug, 3011 BN Rotterdam, Nederland"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "桥梁通行",
+    "parkTime": "24/7 全天开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "早晨（7-9点）：宁静的氛围，美丽的晨光",
+    "bestTimeSummer": "傍晚（20-22点）：欣赏灯光璀璨的天际线和日落",
+    "bestTimeAutumn": "全天皆宜：温度宜人，非常适合摄影",
+    "bestTimeWinter": "中午（12-15点）：白天最短，但冬季光线美丽",
+    "tip": "建议查看鹿特丹市官网获取最新信息"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "桥梁通行",
+    "parkPrice": "完全免费，无需门票",
+    "parking": "停车费用",
+    "parkingPrice": "周边付费停车，请查看停车区域",
+    "guided": "导览服务",
+    "guidedPrice": "免费，可自行参观"
+  },
+  "transport": {
+    "title": "交通方式",
+    "fromCenter": "从鹿特丹中央车站出发",
+    "fromCenterDesc": "步行约 15-20 分钟，或乘坐电车 20 路前往 Kop van Zuid。Erasmusbrug 距离车站仅几步之遥。",
+    "fromStation": "从周边城市出发",
+    "fromStationDesc": "从海牙、阿姆斯特丹等地乘坐火车到鹿特丹中央车站，然后步行或乘坐电车。",
+    "fromAirport": "从鹿特丹海牙机场出发",
+    "fromAirportDesc": "乘坐巴士前往鹿特丹中央车站，然后乘坐电车 20 路或步行 15 分钟到达大桥。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "电车 20、23 和 25 路在 Erasmusbrug 附近停靠。Wilhelminaplein 地铁站距离步行 5 分钟。",
+    "walking": "步行或骑行",
+    "walkingDesc": "大桥非常适合步行或骑行到达。桥上有专门的自行车道。",
+    "driving": "自驾与停车",
+    "drivingDesc": "周边停车需要付费。P+R 地点提供更便宜的选择。大桥本身不允许汽车通行。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "Erasmusbrug 非常适合半日或一日游。建议您在早晨前来拍摄宁静的照片，下午探索周边地区，傍晚欣赏灯光璀璨的天际线。整个游览约需 2-3 小时。",
+    "steps": [
+      "早晨到达 Erasmusbrug，步行过桥欣赏壮丽景色",
+      "参观大桥南侧的 Kop van Zuid 地区",
+      "从岸边拍摄标志性的白色桥塔的特写照片",
+      "在 Wilhelminapier 的餐厅之一享用午餐",
+      "参观鹿特丹港口地区，了解航海历史",
+      "在黄金时段步行返回大桥，拍摄最佳照片",
+      "傍晚欣赏大桥的灯光秀",
+      "在市中心的屋顶酒吧结束一天的行程"
+    ]
+  },
+  "photoSpots": {
+    "title": "最佳拍照点",
+    "spots": [
+      {
+        "name": "岸边全景",
+        "desc": "从北岸拍摄整个大桥，背景是天际线"
+      },
+      {
+        "name": "白色桥塔",
+        "desc": "近距离拍摄 139 米高的标志性白色桥塔"
+      },
+      {
+        "name": "Kop van Zuid",
+        "desc": "从 Kop van Zuid 看大桥，前景是历史建筑"
+      },
+      {
+        "name": "日落",
+        "desc": "日落时分的大桥，地平线上美丽的色彩"
+      },
+      {
+        "name": "夜景灯光",
+        "desc": "夜晚的大桥，氛围感十足的灯光和水面倒影"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "住宿建议",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Erasmusbrug - 鹿特丹标志性吊桥",
+    "captions": [
+      "桥梁景色 1",
+      "桥梁景色 2",
+      "桥梁景色 3",
+      "桥梁景色 4",
+      "桥梁景色 5",
+      "桥梁景色 6",
+      "桥梁景色 7",
+      "桥梁景色 8",
+      "桥梁景色 9",
+      "桥梁景色 10",
+      "桥梁景色 11",
+      "桥梁景色 12",
+      "桥梁景色 13",
+      "桥梁景色 14",
+      "桥梁景色 15"
+    ],
+    "viewAll": "在 Google Maps 查看位置",
+    "showAll": "查看全部照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "张明（Zhang Ming）",
+        "date": "2026年5月",
+        "rating": 5,
+        "text": "Erasmusbrug 是我们鹿特丹之行的最爱！大桥建筑非常独特，白色桥塔令人印象深刻。从桥上欣赏的天际线景色美得令人窒息，绝对值得一来！"
+      },
+      {
+        "name": "李美玲（Li Meiling）",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "步行过桥的体验非常棒。可以 360 度欣赏鹿特丹的景色。傍晚时分的灯光秀特别美丽，我们拍摄了大量照片！"
+      },
+      {
+        "name": "王建国（Wang Jianguo）",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "这座桥的建筑设计令人惊叹。不对称的缆索分布非常独特。地理位置优越，距离中央车站很近，交通非常方便。"
+      },
+      {
+        "name": "陈晓雯（Chen Xiaowen）",
+        "date": "2026年2月",
+        "rating": 5,
+        "text": "在鹿特丹的所有地标中，Erasmusbrug 绝对是前三。清晨时分特别宁静，适合摄影。夜晚的灯光秀也非常值得一看！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Nederland",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 Erasmusbrug 独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "rotterdam": "鹿特丹市",
+      "zuidHolland": "南荷兰省",
+      "cultureelErfgoed": "荷兰文化遗产",
+      "rotterdamInfo": "鹿特丹市旅游",
+      "overheid": "荷兰公共服务",
+      "nederlandWereldwijd": "荷兰环球"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人可识别信息。您透过联系表单或电子邮件提供的任何信息将被严格保密。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，以及与您沟通。我们不会将您的个人信息出售或分享给第三方用于营销目的。"
+      },
+      {
+        "heading": "3. Cookie 与追踪技术",
+        "content": "我们使用 Cookie 和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示您的浏览器拒绝所有 Cookie 或在发送 Cookie 时进行提示。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您数据的安全性对我们很重要。我们努力使用商业上可接受的方式来保护您的个人数据，但任何互联网传输方法都无法保证100%安全。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，则不得访问该服务。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游资讯项目。提供的信息仅供一般参考。您同意负责任且合法地使用本网站。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容（包括文本、图像和徽标）均为网站所有者的财产（另有说明的除外）。严禁未经授权的使用、复制或分发。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好设置。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析 Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于 Erasmusbrug",
+    "text": "Erasmusbrug（伊拉斯谟桥）是位于荷兰鹿特丹市的一座标志性吊桥。该桥由 Ben van Berkel 设计，于 1996 年开放。\n\n这座桥拥有独特的建筑风格，拥有 139 米高的标志性白色桥塔。它是鹿特丹最易识别的象征之一，也是热门的旅游景点。"
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}

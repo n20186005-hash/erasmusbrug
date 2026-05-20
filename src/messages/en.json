@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Erasmusbrug Rotterdam | Iconic Bascule Bridge - Must-Visit Attraction",
+    "description": "Complete guide to Erasmusbrug in Rotterdam, Netherlands. Learn about this iconic bascule bridge, its history, features, and visiting information. Enjoy stunning views over the Maas River."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Erasmusbrug",
+    "subtitle": "Rotterdam Iconic Bascule Bridge - Enjoy Stunning Views over the Maas River",
+    "rating": "4.7(16,132)",
+    "reviewCount": "16,132 reviews",
+    "type": "Bascule Bridge · Rotterdam Must-Visit",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Erasmusbrug",
+    "description": "Erasmusbrug is an iconic bascule bridge located in Rotterdam, Netherlands. This bridge is renowned for its unique architecture and is one of the most recognizable symbols of Rotterdam.\n\nThe bridge spans the Nieuwe Maas and connects the north and south of the city. With its imposing white pylon and asymmetrical cable distribution, Erasmusbrug is a masterpiece of modern engineering.\n\nWhether you take a walk across the bridge, admire the sunset from the riverbank, or view the bridge from a sightseeing boat, Erasmusbrug offers you an unforgettable experience. The bridge is also a popular location for events such as the Rotterdam Marathon.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Bridge access is free, open 24/7",
+        "Visit in early morning or at sunset for the best photos",
+        "Walk across the bridge for stunning views of Rotterdam's skyline",
+        "Combine your visit with a trip to Kop van Zuid"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Bridge Features",
+      "items": [
+        "One of the most iconic bridges in the Netherlands",
+        "Unique architecture with the distinctive white pylon",
+        "Connects north and south Rotterdam",
+        "Popular location for events and photography"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Erasmusbrug",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Bridge History",
+        "content": "Erasmusbrug was designed by the famous architect Ben van Berkel of UNStudio. Construction began in 1986 and the bridge was officially opened in 1996 by Queen Beatrix.\n\nThe bridge is named after Desiderius Erasmus, the famous humanist and theologian from the 15th century. With a length of 802 meters and a width of 33 meters, it is an impressive structure that has significantly changed Rotterdam's skyline."
+      },
+      {
+        "id": "features",
+        "title": "Bridge Features",
+        "content": "Erasmusbrug features unique characteristics:\n\n• An imposing white pylon 139 meters high\n• Asymmetrical cable distribution (single large pylon)\n• A bascule (movable section) for shipping traffic\n• Two bicycle and pedestrian bridges on either side\n• Beautiful lighting at night\n\nThese features make Erasmusbrug one of the most photographed locations in Rotterdam."
+      },
+      {
+        "id": "location",
+        "title": "Location",
+        "content": "The bridge is strategically located in the center of Rotterdam and spans the Nieuwe Maas. It connects the central station area with Kop van Zuid.\n\nFrom the bridge, you have a stunning view of Rotterdam's skyline, including the White House, the Euromast, and the Wilhelminapier. The bridge is easily accessible by public transport and is within walking distance from the central station."
+      },
+      {
+        "id": "events",
+        "title": "Events",
+        "content": "Erasmusbrug is not only an important traffic artery, but also a popular location for events:\n\n• Rotterdam Marathon - the finish line is on Erasmusbrug\n• Rotterdam Harbor Days - special lighting and activities\n• Photography and film shoots - frequently used as a film location\n• Running events and charity runs\n\nVisit the official Rotterdam website for the most current event schedule."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Erasmusbrug",
+    "type": "Bridge Type",
+    "typeValue": "Bascule Bridge, Rotterdam Must-Visit, South Holland Attraction",
+    "country": "Country",
+    "countryValue": "Netherlands",
+    "city": "City",
+    "cityValue": "Rotterdam, South Holland",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Erasmusbrug, 3011 BN Rotterdam, Netherlands"
+  },
+  "hours": {
+    "title": "Bridge Access",
+    "park": "Bridge Access",
+    "parkTime": "24/7 Open",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Morning (7-9 AM): Peaceful atmosphere, beautiful morning light",
+    "bestTimeSummer": "Evening (8-10 PM): Admire the illuminated skyline and sunset",
+    "bestTimeAutumn": "All day: Pleasant temperature, ideal for photography",
+    "bestTimeWinter": "Afternoon (12-3 PM): Shortest day, but beautiful winter light",
+    "tip": "Check Rotterdam official website for latest information"
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Bridge Access",
+    "parkPrice": "Completely free, no admission fee",
+    "parking": "Parking Fee",
+    "parkingPrice": "Paid parking in the area, check parking zones",
+    "guided": "Guided Tours",
+    "guidedPrice": "Free, self-guided visit available"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Rotterdam Central",
+    "fromCenterDesc": "Walk about 15-20 minutes via the Willemsbrug or take tram 20 to Kop van Zuid. Erasmusbrug is within walking distance from the station.",
+    "fromStation": "From surrounding cities",
+    "fromStationDesc": "Take train to Rotterdam Central from The Hague, Amsterdam etc, then walk or take tram.",
+    "fromAirport": "From Rotterdam The Hague Airport",
+    "fromAirportDesc": "Take the bus to Rotterdam Central, then tram 20 or walk 15 minutes to the bridge.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Trams 20, 23 and 25 stop near Erasmusbrug. Metro station Wilhelminaplein is 5 minutes walk away.",
+    "walking": "Walking or Cycling",
+    "walkingDesc": "The bridge is excellently accessible on foot or by bike. There are separate bike paths on the bridge.",
+    "driving": "Driving & Parking",
+    "drivingDesc": "Parking in the area is paid. P+R locations offer cheaper options. The bridge itself is not accessible for cars."
+  },
+  "route": {
+    "title": "Recommended Visit Route",
+    "overview": "Erasmusbrug is perfect for a half-day or full-day visit. We recommend arriving in the morning for peaceful photos, exploring the surrounding area in the afternoon, and enjoying the illuminated skyline in the evening. Plan about 2-3 hours for the entire visit.",
+    "steps": [
+      "Arrive at Erasmusbrug in the morning, walk across the bridge for stunning views",
+      "Visit Kop van Zuid on the south side of the bridge",
+      "Take photos of the iconic white pylon from the riverbank",
+      "Enjoy lunch at one of the restaurants on the Wilhelminapier",
+      "Visit Rotterdam's harbor area and learn about maritime history",
+      "Walk back across the bridge during golden hour for the best photos",
+      "Admire the bridge lighting in the evening",
+      "End your day with a drink at one of the rooftop bars in the center"
+    ]
+  },
+  "photoSpots": {
+    "title": "Best Photo Spots",
+    "spots": [
+      {
+        "name": "Riverbank View",
+        "desc": "Photograph the entire bridge from the north bank, with the skyline in the background"
+      },
+      {
+        "name": "White Pylon",
+        "desc": "Close-up photos of the imposing 139-meter high white pylon"
+      },
+      {
+        "name": "Kop van Zuid",
+        "desc": "View of the bridge from Kop van Zuid, with historical buildings in the foreground"
+      },
+      {
+        "name": "Sunset",
+        "desc": "The bridge at sunset, with beautiful colors on the horizon"
+      },
+      {
+        "name": "Night Lighting",
+        "desc": "The bridge at night, with atmospheric lighting and reflection in the water"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Erasmusbrug - Rotterdam Iconic Bascule Bridge",
+    "captions": [
+      "Bridge View 1",
+      "Bridge View 2",
+      "Bridge View 3",
+      "Bridge View 4",
+      "Bridge View 5",
+      "Bridge View 6",
+      "Bridge View 7",
+      "Bridge View 8",
+      "Bridge View 9",
+      "Bridge View 10",
+      "Bridge View 11",
+      "Bridge View 12",
+      "Bridge View 13",
+      "Bridge View 14",
+      "Bridge View 15"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "May 2026",
+        "rating": 5,
+        "text": "Erasmusbrug was the highlight of our Rotterdam trip! The bridge architecture is incredible, and the white pylon is so impressive. The skyline views from the bridge were breathtaking - absolutely worth a visit!"
+      },
+      {
+        "name": "Li Meiling",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Walking across the bridge was an amazing experience. You can see 360-degree views of Rotterdam. The evening light show was particularly beautiful - we took so many photos!"
+      },
+      {
+        "name": "Wang Jianguo",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "The architectural design of this bridge is stunning. The asymmetrical cable distribution is so unique. Great location, very close to Central Station - super convenient transportation."
+      },
+      {
+        "name": "Chen Xiaowen",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "Among all the landmarks in Rotterdam, Erasmusbrug is definitely top 3. Very peaceful in the early morning, perfect for photography. The night light show is also a must-see!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Route",
+    "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Netherlands",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Erasmusbrug Independent Tourism Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "rotterdam": "Municipality of Rotterdam",
+      "zuidHolland": "Province of South Holland",
+      "cultureelErfgoed": "Cultural Heritage",
+      "rotterdamInfo": "Rotterdam Info",
+      "overheid": "Dutch Government",
+      "nederlandWereldwijd": "Netherlands Worldwide"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use of or the inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Erasmusbrug",
+    "text": "Erasmusbrug is an iconic bascule bridge located in Rotterdam, Netherlands. The bridge was designed by Ben van Berkel and opened in 1996.\n\nThis bridge features unique architecture with an imposing white pylon 139 meters high. It is one of the most recognizable symbols of Rotterdam and a popular tourist attraction."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  }
+}
