@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Erasmusbrug Rotterdam | Iconic Bascule Bridge - Must-Visit Attraction",
-    "description": "Complete guide to Erasmusbrug in Rotterdam, Netherlands. Learn about this iconic bascule bridge, its history, features, and visiting information. Enjoy stunning views over the Maas River."
+    "title": "Erasmusbrug Rotterdam – Visitor Guide, Photos & Things to Do",
+    "description": "Visit Rotterdam's iconic 'Swan' bridge: transport & parking, when it lifts for ships, best photo spots — plus top things to do nearby such as Markthal, Cube Houses, Euromast and Kop van Zuid."
   },
   "header": {
     "home": "Home",
@@ -11,16 +11,18 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Erasmusbrug",
+    "title": "Erasmusbrug (Rotterdam)",
     "subtitle": "Rotterdam Iconic Bascule Bridge - Enjoy Stunning Views over the Maas River",
-    "rating": "4.7(16,132)",
-    "reviewCount": "16,132 reviews",
+    "rating": "4.7(16,598)",
+    "reviewCount": "16,598 reviews",
     "type": "Bascule Bridge · Rotterdam Must-Visit",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Discover Erasmusbrug",
     "description": "Erasmusbrug is an iconic bascule bridge located in Rotterdam, Netherlands. This bridge is renowned for its unique architecture and is one of the most recognizable symbols of Rotterdam.\n\nThe bridge spans the Nieuwe Maas and connects the north and south of the city. With its imposing white pylon and asymmetrical cable distribution, Erasmusbrug is a masterpiece of modern engineering.\n\nWhether you take a walk across the bridge, admire the sunset from the riverbank, or view the bridge from a sightseeing boat, Erasmusbrug offers you an unforgettable experience. The bridge is also a popular location for events such as the Rotterdam Marathon.",
+    "entityText": "Welcome to Erasmusbrug, widely recognized as The Swan, the iconic modern bridge in Rotterdam, South Holland, Netherlands. This landmark is a central hub for travelers exploring the city and its waterfront.",
+    "nearbyText": "When visiting Erasmusbrug, visitors can easily explore surrounding historical landmarks and points of interest, including Euromast and SS Rotterdam.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -215,7 +217,9 @@
   "mapSection": {
     "title": "Location & Route",
     "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Netherlands",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialPortalText": "For official updates and regional tourism information, visit",
+    "officialPortalLabel": "Netherlands / South Holland Official Tourism Portal"
   },
   "footer": {
     "rights": "© 2026 Erasmusbrug Independent Tourism Research Association · All rights reserved.",
@@ -231,7 +235,8 @@
       "overheid": "Dutch Government",
       "nederlandWereldwijd": "Netherlands Worldwide"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "imageCredit": "All images displayed on this website are the property of their respective photographers and remain copyrighted to the original creators."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -296,6 +301,55 @@
     "save": "Save Preferences",
     "saved": "Preferences saved!"
   },
+  "breadcrumb": {
+    "home": "Home",
+    "items": ["Erasmusbrug", "Rotterdam", "South Holland", "Netherlands"]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions About Erasmusbrug",
+    "subtitle": "Quick answers to the most common questions before you visit Erasmusbrug in Rotterdam.",
+    "items": [
+      {
+        "q": "Where is Erasmusbrug located?",
+        "a": "Erasmusbrug is located in Rotterdam, South Holland, Netherlands."
+      },
+      {
+        "q": "Is Erasmusbrug free to visit?",
+        "a": "Yes, it is free and open 24 hours a day, year-round."
+      },
+      {
+        "q": "What is Erasmusbrug known as?",
+        "a": "A modern cable-stayed bridge known locally as The Swan, designed by Ben van Berkel and opened in 1996."
+      },
+      {
+        "q": "Who designed Erasmusbrug and when was it opened?",
+        "a": "Designed by Ben van Berkel of UNStudio and opened in 1996 by Queen Beatrix."
+      },
+      {
+        "q": "How long is Erasmusbrug?",
+        "a": "The bridge is about 802 metres long in total and has a 139-metre-high white pylon. The middle section is a bascule bridge that lifts to let tall ships pass."
+      },
+      {
+        "q": "What can you see near Erasmusbrug?",
+        "a": "Nearby landmarks include Euromast, SS Rotterdam, Het Park and the Kop van Zuid waterfront."
+      },
+      {
+        "q": "How do I get to Erasmusbrug from Rotterdam Central Station?",
+        "a": "Walk about 15-20 minutes via Willemsbrug, take tram 20, 23 or 25, or use metro Wilhelminaplein a 5-minute walk away."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "subtitle": "Information for this visitor guide was compiled from the following official and public sources.",
+    "items": [
+      { "label": "Municipality of Rotterdam", "url": "https://www.rotterdam.nl" },
+      { "label": "Rotterdam Info (Official Tourism)", "url": "https://www.rotterdam.info/en/visit/finder-locations/erasmusbrug" },
+      { "label": "Province of South Holland", "url": "https://www.zuid-holland.nl" },
+      { "label": "Dutch Cultural Heritage Agency", "url": "https://www.cultureelerfgoed.nl" },
+      { "label": "Erasmusbrug on Wikipedia", "url": "https://en.wikipedia.org/wiki/Erasmusbrug" }
+    ]
+  },
   "officialManagement": {
     "title": "About Erasmusbrug",
     "text": "Erasmusbrug is an iconic bascule bridge located in Rotterdam, Netherlands. The bridge was designed by Ben van Berkel and opened in 1996.\n\nThis bridge features unique architecture with an imposing white pylon 139 meters high. It is one of the most recognizable symbols of Rotterdam and a popular tourist attraction."
@@ -306,5 +360,79 @@
     "toursTitle": "",
     "attractions": [],
     "tours": []
+  },
+  "weather": {
+    "title": "Live Weather · 7-Day Forecast",
+    "subtitle": "Smart tips are generated from live conditions — an umbrella hint only appears when rain is likely, and red alerts only when there is real risk.",
+    "labels": {
+      "live": "Live weather",
+      "loadingShort": "Loading",
+      "forecast": "7-day forecast",
+      "days": "days",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "feels": "Feels like",
+      "precip": "Rain chance",
+      "uv": "UV",
+      "wind": "Wind",
+      "windLine": "Bft {n} · {speed} km/h",
+      "updated": "Updated",
+      "refresh": "Refresh weather",
+      "loading": "Fetching live weather…",
+      "error": "Weather is unavailable right now — please try again later.",
+      "retry": "Try again",
+      "noWarning": "No weather warnings",
+      "hasWarning": "Weather risk alert",
+      "outfit": "Outfit tips",
+      "play": "What to do",
+      "gear": "Pack these",
+      "risk": "Risk alert",
+      "advice": "Smart tips for today",
+      "disclaimer": "Auto-generated from weather data as a rough guide"
+    },
+    "condition": {
+      "clear": "Clear",
+      "partly": "Mostly clear",
+      "cloudy": "Cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "lightRain": "Light rain",
+      "rain": "Rain",
+      "heavyRain": "Heavy rain",
+      "sleet": "Freezing rain",
+      "snow": "Snow",
+      "snowShower": "Snow showers",
+      "thunder": "Thunderstorms"
+    },
+    "uv": {
+      "low": "Low",
+      "moderate": "Moderate",
+      "high": "High",
+      "veryHigh": "Very high",
+      "extreme": "Extreme"
+    },
+    "tips": {
+      "mild": { "outfit": ["Mild and comfortable — dress as usual; a light layer helps near the river in the evening"] },
+      "heat": { "outfit": ["Very hot — wear light, breathable clothing"], "play": ["Avoid the midday sun and plan outdoor time for the morning or late afternoon"], "gear": ["Sunscreen, a hat and plenty of water"] },
+      "uvHigh": { "outfit": ["UV is strong — protect yourself outdoors"], "gear": ["Sunscreen, sunglasses and a hat"] },
+      "swing": { "outfit": ["Big day–night temperature swing — bring a layer you can take on or off"] },
+      "cold": { "outfit": ["It is cold — wrap up warm"], "gear": ["A warm coat and scarf"] },
+      "rainLikely": { "outfit": ["Rain is likely — grab an umbrella before heading out"], "play": ["Go for indoor sights first and leave riverside plans for another time"], "gear": ["Umbrella or a light raincoat"] },
+      "lightRain": { "outfit": ["Light rain — paths are slippery, watch your step"], "play": ["Walking and cycling feel less fun; a museum or café is a cosier choice"], "gear": ["Compact umbrella"] },
+      "rain": { "outfit": ["Steady rain — wear a waterproof layer or carry an umbrella"], "play": ["Long outdoor hours are not ideal; river cruises may be rescheduled"], "gear": ["Umbrella or raincoat"] },
+      "heavyRain": { "outfit": ["Heavy rain — wear a waterproof jacket and grippy shoes"], "play": ["Avoid long outdoor time; river cruises will most likely be suspended"], "gear": ["Raincoat — skip long umbrellas when it is windy"] },
+      "snow": { "outfit": ["Snow or sleet — dress warmly and wear non-slip shoes"], "play": ["The bridge and paths may get icy — take it slow"], "gear": ["Waterproof, non-slip shoes and warm gloves"] },
+      "thunder": { "play": ["During thunderstorms stay off the open bridge deck and riverbanks — take shelter indoors nearby"] },
+      "fog": { "play": ["Fog limits the view — not a good day for skyline photos"], "gear": ["A face mask if you need one"] },
+      "sunny": { "play": ["Perfect for outdoor plans — cross the bridge at sunset to enjoy the skyline lights"], "gear": ["Do not forget sun protection outdoors"] },
+      "overcast": { "outfit": ["Cloudy with soft light — normal layers are fine"], "play": ["No harsh sun — great for long walks and street photography"] },
+      "windStrong": { "outfit": ["Windy — wear something windproof"], "play": ["The Maas gets choppy; cruises and waterbuses may change schedule"], "gear": ["Hats can blow away; skip flowing dresses"] },
+      "windGale": { "play": ["Gale-force wind — most outdoor and water activities are off; pick indoor plans"] },
+      "rHeavyRain": { "risk": ["Heavy downpours: avoid low-lying riverside spots and flooded areas"] },
+      "rThunder": { "risk": ["Thunderstorm risk: stay away from open bridge areas, the water's edge and under trees"] },
+      "rFog": { "risk": ["Poor visibility: ferries and waterbuses may be delayed — take care crossing the bridge"] },
+      "rWind": { "risk": ["Strong wind: keep away from riverside railings and tall open structures"] }
+    }
   }
 }

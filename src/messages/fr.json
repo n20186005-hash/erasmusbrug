@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "title": "Pont Érasme (Erasmusbrug) Rotterdam – Guide, Photos & Activités",
+    "description": "Visitez le célèbre pont « Le Cygne » de Rotterdam : accès & stationnement, levées pour les bateaux, meilleurs spots photo — et les activités incontournables à proximité comme le Markthal, les maisons cubes, l'Euromast et Kop van Zuid."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil"
+  },
+  "hero": {
+    "title": "Pont Érasme (Rotterdam)",
+    "subtitle": "Pont basculant emblématique de Rotterdam – Profitez d'une vue imprenable sur la Meuse",
+    "rating": "4,7(16 598)",
+    "reviewCount": "16 598 avis",
+    "type": "Pont basculant · Incontournable à Rotterdam",
+    "openMaps": "Voir l'emplacement"
+  },
+  "intro": {
+    "title": "Découvrez le Pont Érasme",
+    "description": "Le Pont Érasme (Erasmusbrug) est un pont basculant emblématique situé à Rotterdam, aux Pays-Bas. Ce pont est réputé pour son architecture unique et constitue l'un des symboles les plus reconnaissables de Rotterdam.\n\nLe pont enjambe la Nieuwe Maas et relie le nord et le sud de la ville. Avec son pylône blanc imposant et sa répartition asymétrique des câbles, le Pont Érasme est un chef-d'œuvre du génie moderne.\n\nQue vous traversiez le pont à pied, admiriez le coucher de soleil depuis la rive ou observiez le pont depuis un bateau d'excursion, le Pont Érasme vous offre une expérience inoubliable. Le pont est également un lieu prisé pour des événements tels que le Marathon de Rotterdam.",
+    "entityText": "Bienvenue au Pont Érasme, largement connu sous le nom de « Le Cygne », le pont moderne emblématique de Rotterdam, en Hollande-Méridionale (Pays-Bas). Ce monument est un lieu central pour les voyageurs qui explorent la ville et ses quais.",
+    "nearbyText": "Lors de votre visite du Pont Érasme, vous pourrez facilement explorer les monuments historiques et sites d'intérêt environnants, notamment l'Euromast et le SS Rotterdam.",
+    "visitGuide": {
+      "title": "Conseils de visite",
+      "items": [
+        "Accès au pont gratuit et ouvert 24h/24, 7j/7",
+        "Venez tôt le matin ou au coucher du soleil pour les plus belles photos",
+        "Traversez le pont à pied pour une vue imprenable sur la skyline de Rotterdam",
+        "Combinez votre visite avec un passage par Kop van Zuid"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Caractéristiques du pont",
+      "items": [
+        "L'un des ponts les plus emblématiques des Pays-Bas",
+        "Architecture unique avec son pylône blanc distinctif",
+        "Relie le nord et le sud de Rotterdam",
+        "Lieu prisé pour les événements et la photographie"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "À propos du Pont Érasme",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Histoire du pont",
+        "content": "Le Pont Érasme a été conçu par le célèbre architecte Ben van Berkel d'UNStudio. Les travaux ont commencé en 1986 et le pont a été officiellement inauguré en 1996 par la reine Beatrix.\n\nLe pont porte le nom de Érasme (Desiderius Erasmus), célèbre humaniste et théologien du XVe siècle. Avec ses 802 mètres de long et 33 mètres de large, c'est une structure impressionnante qui a considérablement modifié la skyline de Rotterdam."
+      },
+      {
+        "id": "features",
+        "title": "Caractéristiques du pont",
+        "content": "Le Pont Érasme présente des caractéristiques uniques :\n\n• Un pylône blanc imposant de 139 mètres de haut\n• Une répartition asymétrique des câbles (un pylône unique de grande taille)\n• Une partie basculante pour le trafic maritime\n• Deux ponts pour vélos et piétons de chaque côté\n• Un magnifique éclairage nocturne\n\nCes caractéristiques font du Pont Érasme l'un des lieux les plus photographiés de Rotterdam."
+      },
+      {
+        "id": "location",
+        "title": "Localisation",
+        "content": "Le pont est idéalement situé au centre de Rotterdam et enjambe la Nieuwe Maas. Il relie le quartier de la gare centrale à Kop van Zuid.\n\nDepuis le pont, vous avez une vue imprenable sur la skyline de Rotterdam, notamment le Witte Huis, l'Euromast et le Wilhelminapier. Le pont est facilement accessible en transports en commun et se trouve à distance de marche de la gare centrale."
+      },
+      {
+        "id": "events",
+        "title": "Événements",
+        "content": "Le Pont Érasme n'est pas seulement une artère de circulation importante, c'est aussi un lieu prisé pour les événements :\n\n• Marathon de Rotterdam – la ligne d'arrivée se trouve sur le Pont Érasme\n• Rotterdam Harbor Days – illuminations et animations spéciales\n• Séances photo et tournages – souvent utilisé comme décor de film\n• Courses à pied et événements caritatifs\n\nConsultez le site officiel de Rotterdam pour connaître le calendrier des événements le plus à jour."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations générales",
+    "officialName": "Nom officiel",
+    "officialNameValue": "Erasmusbrug",
+    "type": "Type de pont",
+    "typeValue": "Pont basculant, incontournable à Rotterdam, attraction de Hollande-Méridionale",
+    "country": "Pays",
+    "countryValue": "Pays-Bas",
+    "city": "Ville",
+    "cityValue": "Rotterdam, Hollande-Méridionale",
+    "googleRating": "Note Google",
+    "address": "Adresse",
+    "addressValue": "Erasmusbrug, 3011 BN Rotterdam, Pays-Bas"
+  },
+  "hours": {
+    "title": "Accès au pont",
+    "park": "Accès au pont",
+    "parkTime": "Ouvert 24h/24",
+    "bestTime": "Meilleur moment pour visiter",
+    "bestTimeSpring": "Matin (7h-9h) : ambiance paisible, belle lumière matinale",
+    "bestTimeSummer": "Soir (20h-22h) : admirez la skyline illuminée et le coucher de soleil",
+    "bestTimeAutumn": "Toute la journée : température agréable, idéal pour la photographie",
+    "bestTimeWinter": "Après-midi (12h-15h) : journée courte, mais belle lumière d'hiver",
+    "tip": "Consultez le site officiel de Rotterdam pour les dernières informations"
+  },
+  "tickets": {
+    "title": "Informations d'accès",
+    "park": "Accès au pont",
+    "parkPrice": "Entièrement gratuit, aucun droit d'entrée",
+    "parking": "Stationnement",
+    "parkingPrice": "Stationnement payant dans le quartier, vérifiez les zones",
+    "guided": "Visites guidées",
+    "guidedPrice": "Gratuit, visite libre possible"
+  },
+  "transport": {
+    "title": "Comment s'y rendre",
+    "fromCenter": "Depuis la gare centrale de Rotterdam",
+    "fromCenterDesc": "Marchez environ 15 à 20 minutes via le Willemsbrug ou prenez le tram 20 jusqu'à Kop van Zuid. Le Pont Érasme est à distance de marche de la gare.",
+    "fromStation": "Depuis les villes environnantes",
+    "fromStationDesc": "Prenez le train jusqu'à la gare centrale de Rotterdam depuis La Haye, Amsterdam, etc., puis marchez ou prenez le tram.",
+    "fromAirport": "Depuis l'aéroport de Rotterdam La Haye",
+    "fromAirportDesc": "Prenez le bus jusqu'à la gare centrale de Rotterdam, puis le tram 20 ou marchez 15 minutes jusqu'au pont.",
+    "publicTransport": "Transports en commun",
+    "publicTransportDesc": "Les trams 20, 23 et 25 s'arrêtent près du Pont Érasme. La station de métro Wilhelminaplein est à 5 minutes à pied.",
+    "walking": "À pied ou à vélo",
+    "walkingDesc": "Le pont est très accessible à pied ou à vélo. Des pistes cyclables séparées traversent le pont.",
+    "driving": "En voiture & stationnement",
+    "drivingDesc": "Le stationnement dans le quartier est payant. Les parkings P+R offrent des options moins chères. Le pont lui-même n'est pas accessible aux voitures."
+  },
+  "route": {
+    "title": "Itinéraire de visite recommandé",
+    "overview": "Le Pont Érasme est parfait pour une visite d'une demi-journée ou d'une journée complète. Nous vous recommandons d'arriver le matin pour des photos paisibles, d'explorer les environs l'après-midi et de profiter de la skyline illuminée le soir. Prévoyez environ 2 à 3 heures pour l'ensemble de la visite.",
+    "steps": [
+      "Arrivez au Pont Érasme le matin et traversez le pont pour profiter de vues imprenables",
+      "Visitez Kop van Zuid, sur le côté sud du pont",
+      "Photographiez le pylône blanc emblématique depuis la rive",
+      "Déjeunez dans l'un des restaurants du Wilhelminapier",
+      "Découvrez le port de Rotterdam et son histoire maritime",
+      "Retraversez le pont à l'heure dorée pour les plus belles photos",
+      "Admirez l'illumination du pont le soir",
+      "Terminez la journée par un verre dans l'un des bars avec terrasse du centre"
+    ]
+  },
+  "photoSpots": {
+    "title": "Meilleurs spots photo",
+    "spots": [
+      {
+        "name": "Vue depuis la rive",
+        "desc": "Photographiez le pont entier depuis la rive nord, avec la skyline en arrière-plan"
+      },
+      {
+        "name": "Le pylône blanc",
+        "desc": "Photos rapprochées de l'imposant pylône blanc de 139 mètres de haut"
+      },
+      {
+        "name": "Kop van Zuid",
+        "desc": "Vue du pont depuis Kop van Zuid, avec les bâtiments historiques au premier plan"
+      },
+      {
+        "name": "Coucher de soleil",
+        "desc": "Le pont au coucher du soleil, avec de magnifiques couleurs à l'horizon"
+      },
+      {
+        "name": "Illumination nocturne",
+        "desc": "Le pont la nuit, avec un éclairage d'ambiance et ses reflets dans l'eau"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Hébergement",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "Galerie photos",
+    "subtitle": "Pont Érasme – Pont basculant emblématique de Rotterdam",
+    "captions": [
+      "Vue du pont 1",
+      "Vue du pont 2",
+      "Vue du pont 3",
+      "Vue du pont 4",
+      "Vue du pont 5",
+      "Vue du pont 6",
+      "Vue du pont 7",
+      "Vue du pont 8",
+      "Vue du pont 9",
+      "Vue du pont 10",
+      "Vue du pont 11",
+      "Vue du pont 12",
+      "Vue du pont 13",
+      "Vue du pont 14",
+      "Vue du pont 15"
+    ],
+    "viewAll": "Voir sur Google Maps",
+    "showAll": "Voir toutes les photos",
+    "showLess": "Voir moins"
+  },
+  "reviews": {
+    "title": "Avis des visiteurs",
+    "declaration": "Les avis des visiteurs sont consultables via Google Maps (lien externe).",
+    "moreReviews": "Voir plus d'avis sur Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "mai 2026",
+        "rating": 5,
+        "text": "Le Pont Érasme a été le point fort de notre voyage à Rotterdam ! L'architecture du pont est incroyable et le pylône blanc est très impressionnant. La vue sur la skyline depuis le pont était à couper le souffle – cela vaut vraiment le détour !"
+      },
+      {
+        "name": "Li Meiling",
+        "date": "avril 2026",
+        "rating": 5,
+        "text": "Traverser le pont à pied a été une expérience extraordinaire. On y voit Rotterdam à 360 degrés. L'illumination du soir était particulièrement belle – nous avons pris énormément de photos !"
+      },
+      {
+        "name": "Wang Jianguo",
+        "date": "mars 2026",
+        "rating": 5,
+        "text": "La conception architecturale de ce pont est superbe. La répartition asymétrique des câbles est très originale. Excellente situation, très proche de la gare centrale – les transports sont super pratiques."
+      },
+      {
+        "name": "Chen Xiaowen",
+        "date": "février 2026",
+        "rating": 5,
+        "text": "Parmi tous les monuments de Rotterdam, le Pont Érasme est certainement dans le top 3. Très paisible tôt le matin, parfait pour la photo. Le spectacle lumineux du soir est aussi à ne pas manquer !"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Localisation & itinéraire",
+    "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Pays-Bas",
+    "openMaps": "Voir sur Google Maps",
+    "officialPortalText": "Pour les mises à jour officielles et les informations touristiques régionales, visitez",
+    "officialPortalLabel": "Portail touristique officiel des Pays-Bas / Hollande-Méridionale"
+  },
+  "footer": {
+    "rights": "© 2026 Association indépendante de recherche touristique Erasmusbrug · Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Paramètres des cookies",
+    "officialResourcesTitle": "Ressources & informations connexes",
+    "officialLinks": {
+      "rotterdam": "Municipalité de Rotterdam",
+      "zuidHolland": "Province de Hollande-Méridionale",
+      "cultureelErfgoed": "Patrimoine culturel",
+      "rotterdamInfo": "Rotterdam Info",
+      "overheid": "Gouvernement néerlandais",
+      "nederlandWereldwijd": "Pays-Bas dans le monde"
+    },
+    "disclaimer": "Ce site est un projet indépendant d'information touristique réalisé par un tiers. Nous ne sommes affiliés ni au gouvernement local ni à aucune autre institution officielle.",
+    "imageCredit": "Toutes les images affichées sur ce site appartiennent à leurs photographes respectifs et restent protégées par le droit d'auteur de leurs créateurs."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : mai 2026",
+    "sections": [
+      {
+        "heading": "1. Collecte des informations",
+        "content": "Nous ne collectons généralement pas activement d'informations personnellement identifiables auprès des utilisateurs. Toute information que vous fournissez via des formulaires de contact ou des e-mails sera traitée en toute confidentialité."
+      },
+      {
+        "heading": "2. Utilisation des informations",
+        "content": "Les informations que nous collectons sont utilisées uniquement pour fournir, maintenir et améliorer nos services, et pour communiquer avec vous. Nous ne vendons ni ne partageons vos informations personnelles avec des tiers à des fins marketing."
+      },
+      {
+        "heading": "3. Cookies et suivi",
+        "content": "Nous utilisons des cookies et des technologies de suivi similaires pour analyser l'activité de notre site et conserver certaines informations. Vous pouvez configurer votre navigateur pour refuser tous les cookies ou pour être averti lorsqu'un cookie est envoyé."
+      },
+      {
+        "heading": "4. Sécurité des données",
+        "content": "La sécurité de vos données est importante pour nous. Nous utilisons des moyens commercialement acceptables pour protéger vos données personnelles, bien qu'aucune méthode de transmission sur Internet ne soit sécurisée à 100 %."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : mai 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptation des conditions",
+        "content": "En accédant à ce site et en l'utilisant, vous acceptez d'être lié par ces conditions d'utilisation. Si vous êtes en désaccord avec une partie des conditions, vous ne pouvez pas accéder au service."
+      },
+      {
+        "heading": "2. Utilisation du service",
+        "content": "Ce site est un projet indépendant d'information touristique réalisé par un tiers. Les informations fournies le sont uniquement à titre informatif général. Vous acceptez d'utiliser le site de manière responsable et conforme à la loi."
+      },
+      {
+        "heading": "3. Propriété intellectuelle",
+        "content": "Tout le contenu de ce site, y compris les textes, images et logos, appartient au propriétaire du site sauf mention contraire. Toute utilisation, reproduction ou distribution non autorisée est strictement interdite."
+      },
+      {
+        "heading": "4. Limitation de responsabilité",
+        "content": "Nous ne saurions être tenus responsables des dommages directs, indirects, accessoires ou consécutifs résultant de l'utilisation ou de l'impossibilité d'utiliser ce site ou les informations qu'il contient."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des cookies",
+    "description": "Gérez vos préférences en matière de cookies.",
+    "essential": {
+      "title": "Cookies essentiels",
+      "description": "Nécessaires au fonctionnement de base du site.",
+      "badge": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Cookies d'analyse",
+      "description": "Nous aident à comprendre comment les visiteurs interagissent avec le site."
+    },
+    "marketing": {
+      "title": "Cookies marketing",
+      "description": "Utilisés pour suivre les visiteurs sur différents sites."
+    },
+    "save": "Enregistrer les préférences",
+    "saved": "Préférences enregistrées !"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "items": ["Erasmusbrug", "Rotterdam", "Hollande-Méridionale", "Pays-Bas"]
+  },
+  "faq": {
+    "title": "Questions fréquentes sur le Pont Érasme",
+    "subtitle": "Réponses rapides aux questions les plus courantes avant de visiter le Pont Érasme à Rotterdam.",
+    "items": [
+      {
+        "q": "Où se trouve le Pont Érasme ?",
+        "a": "Le Pont Érasme se trouve à Rotterdam, en Hollande-Méridionale (Pays-Bas)."
+      },
+      {
+        "q": "La visite du Pont Érasme est-elle gratuite ?",
+        "a": "Oui, l'accès est gratuit et le pont est ouvert 24 heures sur 24, toute l'année."
+      },
+      {
+        "q": "Sous quel nom le Pont Érasme est-il connu ?",
+        "a": "C'est un pont à haubans moderne, connu localement sous le nom de « Le Cygne », conçu par Ben van Berkel et inauguré en 1996."
+      },
+      {
+        "q": "Qui a conçu le Pont Érasme et quand a-t-il été inauguré ?",
+        "a": "Il a été conçu par Ben van Berkel d'UNStudio et inauguré en 1996 par la reine Beatrix."
+      },
+      {
+        "q": "Quelle est la longueur du Pont Érasme ?",
+        "a": "Le pont mesure environ 802 mètres de long au total et possède un pylône blanc de 139 mètres de haut. La partie centrale est un pont basculant qui se lève pour laisser passer les grands navires."
+      },
+      {
+        "q": "Que peut-on voir près du Pont Érasme ?",
+        "a": "Les monuments à proximité incluent l'Euromast, le SS Rotterdam, le Het Park et le front de mer de Kop van Zuid."
+      },
+      {
+        "q": "Comment rejoindre le Pont Érasme depuis la gare centrale de Rotterdam ?",
+        "a": "Marchez environ 15 à 20 minutes via le Willemsbrug, prenez le tram 20, 23 ou 25, ou utilisez le métro jusqu'à Wilhelminaplein, à 5 minutes à pied."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & références",
+    "subtitle": "Les informations de ce guide du visiteur ont été compilées à partir des sources officielles et publiques suivantes.",
+    "items": [
+      { "label": "Municipalité de Rotterdam", "url": "https://www.rotterdam.nl" },
+      { "label": "Rotterdam Info (Tourisme officiel)", "url": "https://www.rotterdam.info/en/visit/finder-locations/erasmusbrug" },
+      { "label": "Province de Hollande-Méridionale", "url": "https://www.zuid-holland.nl" },
+      { "label": "Agence néerlandaise du patrimoine culturel", "url": "https://www.cultureelerfgoed.nl" },
+      { "label": "Pont Érasme sur Wikipédia", "url": "https://en.wikipedia.org/wiki/Erasmusbrug" }
+    ]
+  },
+  "officialManagement": {
+    "title": "À propos du Pont Érasme",
+    "text": "Le Pont Érasme est un pont basculant emblématique situé à Rotterdam, aux Pays-Bas. Le pont a été conçu par Ben van Berkel et inauguré en 1996.\n\nCe pont présente une architecture unique avec un imposant pylône blanc de 139 mètres de haut. C'est l'un des symboles les plus reconnaissables de Rotterdam et une attraction touristique populaire."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  },
+  "weather": {
+    "title": "Météo en direct · Prévisions à 7 jours",
+    "subtitle": "Des conseils intelligents sont générés en fonction des conditions en direct — l'indication de parapluie n'apparaît que lorsque la pluie est probable, et les alertes rouges uniquement en cas de risque réel.",
+    "labels": {
+      "live": "Météo en direct",
+      "loadingShort": "Chargement",
+      "forecast": "Prévisions à 7 jours",
+      "days": "jours",
+      "today": "Aujourd'hui",
+      "tomorrow": "Demain",
+      "feels": "Ressenti",
+      "precip": "Risque de pluie",
+      "uv": "UV",
+      "wind": "Vent",
+      "windLine": "Bft {n} · {speed} km/h",
+      "updated": "Mis à jour",
+      "refresh": "Actualiser la météo",
+      "loading": "Récupération de la météo en direct…",
+      "error": "La météo est actuellement indisponible — veuillez réessayer plus tard.",
+      "retry": "Réessayer",
+      "noWarning": "Aucune alerte météo",
+      "hasWarning": "Alerte de risque météo",
+      "outfit": "Conseils vestimentaires",
+      "play": "Que faire",
+      "gear": "À emporter",
+      "risk": "Alerte de risque",
+      "advice": "Conseils du jour",
+      "disclaimer": "Généré automatiquement à partir des données météo, à titre indicatif"
+    },
+    "condition": {
+      "clear": "Dégagé",
+      "partly": "Plutôt dégagé",
+      "cloudy": "Nuageux",
+      "overcast": "Couvert",
+      "fog": "Brouillard",
+      "drizzle": "Bruine",
+      "lightRain": "Pluie légère",
+      "rain": "Pluie",
+      "heavyRain": "Fortes pluies",
+      "sleet": "Pluie verglaçante",
+      "snow": "Neige",
+      "snowShower": "Averses de neige",
+      "thunder": "Orages"
+    },
+    "uv": {
+      "low": "Faible",
+      "moderate": "Modéré",
+      "high": "Élevé",
+      "veryHigh": "Très élevé",
+      "extreme": "Extrême"
+    },
+    "tips": {
+      "mild": { "outfit": ["Doux et agréable — habillez-vous comme d'habitude ; une petite couche est utile près de la rivière le soir"] },
+      "heat": { "outfit": ["Très chaud — portez des vêtements légers et respirants"], "play": ["Évitez le soleil de midi et planifiez les activités extérieures le matin ou en fin d'après-midi"], "gear": ["Crème solaire, chapeau et beaucoup d'eau"] },
+      "uvHigh": { "outfit": ["Les UV sont forts — protégez-vous à l'extérieur"], "gear": ["Crème solaire, lunettes de soleil et chapeau"] },
+      "swing": { "outfit": ["Grand écart de température entre jour et nuit — prévoyez une couche à enfiler ou retirer"] },
+      "cold": { "outfit": ["Il fait froid — habillez-vous chaudement"], "gear": ["Un manteau chaud et une écharpe"] },
+      "rainLikely": { "outfit": ["La pluie est probable — prenez un parapluie avant de sortir"], "play": ["Commencez par les visites intérieures et gardez les balades au bord de l'eau pour une autre fois"], "gear": ["Parapluie ou imperméable léger"] },
+      "lightRain": { "outfit": ["Pluie légère — les sentiers sont glissants, faites attention où vous marchez"], "play": ["La marche et le vélo sont moins agréables ; un musée ou un café est un choix plus cosy"], "gear": ["Parapluie compact"] },
+      "rain": { "outfit": ["Pluie régulière — portez une couche imperméable ou prenez un parapluie"], "play": ["Les longues heures en extérieur ne sont pas idéales ; les croisières sur la rivière peuvent être reprogrammées"], "gear": ["Parapluie ou imperméable"] },
+      "heavyRain": { "outfit": ["Fortes pluies — portez une veste imperméable et des chaussures antidérapantes"], "play": ["Évitez les longues sorties en extérieur ; les croisières fluviales seront très probablement suspendues"], "gear": ["Imperméable — évitez les grands parapluies quand il y a du vent"] },
+      "snow": { "outfit": ["Neige ou neige fondue — habillez-vous chaudement et portez des chaussures antidérapantes"], "play": ["Le pont et les sentiers peuvent être verglacés — avancez prudemment"], "gear": ["Chaussures imperméables antidérapantes et gants chauds"] },
+      "thunder": { "play": ["Pendant les orages, restez à l'écart du tablier ouvert du pont et des berges — mettez-vous à l'abri à l'intérieur à proximité"] },
+      "fog": { "play": ["Le brouillard limite la visibilité — ce n'est pas un bon jour pour les photos de skyline"], "gear": ["Un masque facial si nécessaire"] },
+      "sunny": { "play": ["Parfait pour les activités en extérieur — traversez le pont au coucher du soleil pour admirer les lumières de la skyline"], "gear": ["N'oubliez pas la protection solaire à l'extérieur"] },
+      "overcast": { "outfit": ["Nuageux avec une lumière douce — des vêtements normaux suffisent"], "play": ["Pas de soleil agressif — idéal pour de longues balades et la photo de rue"] },
+      "windStrong": { "outfit": ["Venteux — portez quelque chose qui coupe le vent"], "play": ["La Meuse est agitée ; les croisières et waterbus peuvent modifier leurs horaires"], "gear": ["Les chapeaux peuvent s'envoler ; évitez les robes amples"] },
+      "windGale": { "play": ["Vent de force tempête — la plupart des activités extérieures et nautiques sont annulées ; choisissez des activités en intérieur"] },
+      "rHeavyRain": { "risk": ["Forts orages de pluie : évitez les abords des rives en contrebas et les zones inondées"] },
+      "rThunder": { "risk": ["Risque d'orage : tenez-vous éloigné des zones ouvertes du pont, des abords de l'eau et des arbres"] },
+      "rFog": { "risk": ["Visibilité réduite : les ferries et waterbus peuvent être retardés — soyez prudents en traversant le pont"] },
+      "rWind": { "risk": ["Vent fort : éloignez-vous des garde-corps au bord de la rivière et des structures ouvertes élevées"] }
+    }
+  }
+}

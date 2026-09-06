@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "title": "Erasmusbrücke Rotterdam: Sehenswürdigkeiten, Parken & Tipps",
+    "description": "Besuchen Sie das Wahrzeichen von Rotterdam! Alle Infos zur Erasmusbrücke Erasmusbrug („De Zwaan“): Parken, Anreise mit Tram & Metro, Brückenöffnungen für Schiffe, Fotospots und die besten Sehenswürdigkeiten in der Nähe – Markthal, Kubuswoningen, Euromast & Kop van Zuid."
+  },
+  "header": {
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "title": "Erasmusbrücke (Rotterdam)",
+    "subtitle": "Rotterdams Wahrzeichen: die Basculebrücke Erasmusbrug – genießen Sie den einzigartigen Blick auf die Maas",
+    "rating": "4,7(16.598)",
+    "reviewCount": "16.598 Bewertungen",
+    "type": "Basculebrücke · Rotterdam Must-See",
+    "openMaps": "Standort anzeigen"
+  },
+  "intro": {
+    "title": "Die Erasmusbrug entdecken",
+    "description": "Die Erasmusbrug (Erasmusbrücke) ist eine ikonische Basculebrücke in Rotterdam, Niederlande. Sie ist berühmt für ihre einzigartige Architektur und zählt zu den bekanntesten Wahrzeichen Rotterdams.\n\nDie Brücke überspannt die Nieuwe Maas und verbindet den Norden mit dem Süden der Stadt. Mit ihrem imposanten weißen Pylon und der asymmetrischen Seilanordnung ist die Erasmusbrug ein Meisterwerk moderner Ingenieurskunst.\n\nOb Sie zu Fuß über die Brücke gehen, den Sonnenuntergang vom Ufer aus bewundern oder die Brücke von einem Ausflugsboot aus betrachten – die Erasmusbrug bietet Ihnen ein unvergessliches Erlebnis. Die Brücke ist außerdem ein beliebter Schauplatz für Veranstaltungen wie den Rotterdam-Marathon.",
+    "entityText": "Willkommen bei der Erasmusbrug, in Rotterdam weithin als „De Zwaan“ (Der Schwan) bekannt – die ikonische moderne Brücke in Rotterdam, Zuid-Holland, Niederlande. Dieses Wahrzeichen ist ein zentraler Anlaufpunkt für Reisende, die die Stadt und ihr Hafenviertel erkunden möchten.",
+    "nearbyText": "Bei einem Besuch der Erasmusbrug lassen sich die umliegenden historischen Wahrzeichen und Sehenswürdigkeiten wie der Euromast und die SS Rotterdam bequem erkunden.",
+    "visitGuide": {
+      "title": "Besuchertipps",
+      "items": [
+        "Der Zugang zur Brücke ist kostenlos und rund um die Uhr möglich",
+        "Frühmorgens oder bei Sonnenuntergang kommen – für die schönsten Fotos",
+        "Zu Fuß über die Brücke gehen und die Skyline von Rotterdam bewundern",
+        "Den Besuch mit einem Ausflug zum Kop van Zuid verbinden"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Besonderheiten der Brücke",
+      "items": [
+        "Eine der ikonischsten Brücken der Niederlande",
+        "Einzigartige Architektur mit dem markanten weißen Pylon",
+        "Verbindet Nord- und Süd-Rotterdam",
+        "Beliebter Ort für Veranstaltungen und Fotografie"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Über die Erasmusbrug",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Geschichte der Brücke",
+        "content": "Die Erasmusbrug wurde vom renommierten Architekten Ben van Berkel von UNStudio entworfen. Die Bauarbeiten begannen 1986, und die Brücke wurde 1996 offiziell von Königin Beatrix eröffnet.\n\nDie Brücke ist nach Desiderius Erasmus benannt, dem berühmten Humanisten und Theologen des 15. Jahrhunderts. Mit einer Länge von 802 Metern und einer Breite von 33 Metern ist sie ein beeindruckendes Bauwerk, das die Skyline von Rotterdam nachhaltig verändert hat."
+      },
+      {
+        "id": "features",
+        "title": "Besonderheiten der Brücke",
+        "content": "Die Erasmusbrug weist einzigartige Merkmale auf:\n\n• Einen imposanten weißen Pylon mit 139 Metern Höhe\n• Eine asymmetrische Seilanordnung (ein großer Pylon)\n• Eine Bascule (beweglicher Teil) für die Schifffahrt\n• Zwei Rad- und Fußgängerbrücken auf beiden Seiten\n• Eine wunderschöne Beleuchtung in der Nacht\n\nDiese Besonderheiten machen die Erasmusbrug zu einem der meistfotografierten Orte in Rotterdam."
+      },
+      {
+        "id": "location",
+        "title": "Lage",
+        "content": "Die Brücke liegt zentral in Rotterdam und überspannt die Nieuwe Maas. Sie verbindet das Gebiet rund um den Hauptbahnhof mit dem Kop van Zuid.\n\nVon der Brücke haben Sie einen atemberaubenden Blick auf die Skyline von Rotterdam, darunter das Witte Huis, den Euromast und die Wilhelminapier. Die Brücke ist bequem mit öffentlichen Verkehrsmitteln erreichbar und liegt in Gehweite vom Hauptbahnhof."
+      },
+      {
+        "id": "events",
+        "title": "Veranstaltungen",
+        "content": "Die Erasmusbrug ist nicht nur eine wichtige Verkehrsader, sondern auch ein beliebter Ort für Veranstaltungen:\n\n• Rotterdam-Marathon – die Ziellinie liegt auf der Erasmusbrug\n• Rotterdam Harbour Days – besondere Beleuchtung und Aktivitäten\n• Foto- und Filmaufnahmen – die Brücke wird häufig als Filmkulisse genutzt\n• Laufveranstaltungen und Wohltätigkeitsläufe\n\nAktuelle Veranstaltungstermine finden Sie auf der offiziellen Website von Rotterdam."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basisinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Erasmusbrug",
+    "type": "Brückentyp",
+    "typeValue": "Basculebrücke, Rotterdam Must-See, Attraktion in Zuid-Holland",
+    "country": "Land",
+    "countryValue": "Niederlande",
+    "city": "Stadt",
+    "cityValue": "Rotterdam, Zuid-Holland",
+    "googleRating": "Google-Bewertung",
+    "address": "Adresse",
+    "addressValue": "Erasmusbrug, 3011 BN Rotterdam, Niederlande"
+  },
+  "hours": {
+    "title": "Zugang zur Brücke",
+    "park": "Zugang zur Brücke",
+    "parkTime": "Rund um die Uhr geöffnet",
+    "bestTime": "Beste Besuchszeit",
+    "bestTimeSpring": "Morgens (7–9 Uhr): ruhige Atmosphäre, wunderschönes Morgenlicht",
+    "bestTimeSummer": "Abends (20–22 Uhr): beleuchtete Skyline und Sonnenuntergang bewundern",
+    "bestTimeAutumn": "Den ganzen Tag: angenehme Temperaturen, ideal zum Fotografieren",
+    "bestTimeWinter": "Nachmittags (12–15 Uhr): kurze Tage, aber schönes Winterlicht",
+    "tip": "Aktuelle Informationen auf der offiziellen Website von Rotterdam prüfen"
+  },
+  "tickets": {
+    "title": "Eintrittsinformationen",
+    "park": "Brückenzugang",
+    "parkPrice": "Völlig kostenlos, kein Eintritt erforderlich",
+    "parking": "Parkgebühren",
+    "parkingPrice": "Bezahlte Parkplätze in der Umgebung – Parkzonen beachten",
+    "guided": "Geführte Touren",
+    "guidedPrice": "Kostenlos, eigenständiger Besuch möglich"
+  },
+  "transport": {
+    "title": "Anreise",
+    "fromCenter": "Vom Hauptbahnhof Rotterdam",
+    "fromCenterDesc": "Zu Fuß ca. 15–20 Minuten über die Willemsbrug oder mit der Tram 20 bis Kop van Zuid. Die Erasmusbrug liegt in Gehweite vom Bahnhof.",
+    "fromStation": "Aus umliegenden Städten",
+    "fromStationDesc": "Mit dem Zug von Den Haag, Amsterdam usw. nach Rotterdam Centraal, dann zu Fuß oder mit der Tram weiter.",
+    "fromAirport": "Vom Flughafen Rotterdam The Hague",
+    "fromAirportDesc": "Mit dem Bus zum Hauptbahnhof Rotterdam, dann Tram 20 oder 15 Minuten zu Fuß bis zur Brücke.",
+    "publicTransport": "Öffentliche Verkehrsmittel",
+    "publicTransportDesc": "Die Trams 20, 23 und 25 halten in der Nähe der Erasmusbrug. Die Metrostation Wilhelminaplein liegt 5 Minuten zu Fuß entfernt.",
+    "walking": "Zu Fuß oder mit dem Fahrrad",
+    "walkingDesc": "Die Brücke ist hervorragend zu Fuß und mit dem Rad erreichbar. Auf der Brücke gibt es separate Radwege.",
+    "driving": "Mit dem Auto & Parken",
+    "drivingDesc": "Das Parken in der Umgebung ist kostenpflichtig. P+R-Standorte bieten günstigere Alternativen. Die Brücke selbst ist für Autos nicht befahrbar."
+  },
+  "route": {
+    "title": "Empfohlene Besuchsroute",
+    "overview": "Die Erasmusbrug eignet sich perfekt für einen halbtägigen oder ganztägigen Besuch. Wir empfehlen, morgens für ruhige Fotos zu kommen, nachmittags die Umgebung zu erkunden und abends die beleuchtete Skyline zu genießen. Planen Sie insgesamt etwa 2–3 Stunden ein.",
+    "steps": [
+      "Morgens zur Erasmusbrug kommen und zu Fuß über die Brücke gehen – mit atemberaubenden Ausblicken",
+      "Den Kop van Zuid auf der Südseite der Brücke besuchen",
+      "Den ikonischen weißen Pylon vom Ufer aus fotografieren",
+      "In einem der Restaurants an der Wilhelminapier zu Mittag essen",
+      "Den Hafen von Rotterdam besuchen und mehr über die Seefahrtsgeschichte erfahren",
+      "Zur goldenen Stunde zurück über die Brücke laufen – für die schönsten Fotos",
+      "Abends die Beleuchtung der Brücke bewundern",
+      "Den Tag mit einem Drink in einer der Rooftop-Bars im Zentrum ausklingen lassen"
+    ]
+  },
+  "photoSpots": {
+    "title": "Die besten Fotospots",
+    "spots": [
+      {
+        "name": "Blick vom Ufer",
+        "desc": "Die gesamte Brücke vom Nordufer aus fotografieren, mit der Skyline im Hintergrund"
+      },
+      {
+        "name": "Weißer Pylon",
+        "desc": "Nahaufnahmen des imposanten 139 Meter hohen weißen Pylons"
+      },
+      {
+        "name": "Kop van Zuid",
+        "desc": "Blick auf die Brücke vom Kop van Zuid aus, mit historischen Gebäuden im Vordergrund"
+      },
+      {
+        "name": "Sonnenuntergang",
+        "desc": "Die Brücke bei Sonnenuntergang, mit wunderschönen Farben am Horizont"
+      },
+      {
+        "name": "Nachtbeleuchtung",
+        "desc": "Die Brücke bei Nacht, mit stimmungsvoller Beleuchtung und Spiegelung im Wasser"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Unterkünfte",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "Fotogalerie",
+    "subtitle": "Erasmusbrug – Rotterdams ikonische Basculebrücke",
+    "captions": [
+      "Brückenansicht 1",
+      "Brückenansicht 2",
+      "Brückenansicht 3",
+      "Brückenansicht 4",
+      "Brückenansicht 5",
+      "Brückenansicht 6",
+      "Brückenansicht 7",
+      "Brückenansicht 8",
+      "Brückenansicht 9",
+      "Brückenansicht 10",
+      "Brückenansicht 11",
+      "Brückenansicht 12",
+      "Brückenansicht 13",
+      "Brückenansicht 14",
+      "Brückenansicht 15"
+    ],
+    "viewAll": "Auf Google Maps ansehen",
+    "showAll": "Alle Fotos anzeigen",
+    "showLess": "Weniger anzeigen"
+  },
+  "reviews": {
+    "title": "Besucherbewertungen",
+    "declaration": "Besucherfeedback können Sie über Google Maps einsehen (externer Link).",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "Mai 2026",
+        "rating": 5,
+        "text": "Die Erasmusbrug war das Highlight unseres Rotterdam-Trips! Die Architektur der Brücke ist unglaublich, und der weiße Pylon ist beeindruckend. Der Blick auf die Skyline von der Brücke aus war atemberaubend – ein Besuch lohnt sich absolut!"
+      },
+      {
+        "name": "Li Meiling",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Über die Brücke zu laufen war ein großartiges Erlebnis. Man hat einen 360-Grad-Blick über Rotterdam. Besonders schön war die abendliche Lichtstimmung – wir haben so viele Fotos gemacht!"
+      },
+      {
+        "name": "Wang Jianguo",
+        "date": "März 2026",
+        "rating": 5,
+        "text": "Das architektonische Design dieser Brücke ist beeindruckend. Die asymmetrische Seilanordnung ist wirklich einzigartig. Tolle Lage, ganz in der Nähe des Hauptbahnhofs – super bequem zu erreichen."
+      },
+      {
+        "name": "Chen Xiaowen",
+        "date": "Februar 2026",
+        "rating": 5,
+        "text": "Unter allen Wahrzeichen Rotterdams gehört die Erasmusbrug definitiv zu den Top 3. Am frühen Morgen ist es sehr ruhig, perfekt zum Fotografieren. Auch die Lichtshow am Abend ist ein Muss!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Lage & Route",
+    "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Niederlande",
+    "openMaps": "Auf Google Maps ansehen",
+    "officialPortalText": "Aktuelle Informationen und regionale Tourismusangebote finden Sie auf",
+    "officialPortalLabel": "Offizielles Tourismusportal Niederlande / Zuid-Holland"
+  },
+  "footer": {
+    "rights": "© 2026 Erasmusbrug Independent Tourism Research Association · Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Verwandte Ressourcen & Informationen",
+    "officialLinks": {
+      "rotterdam": "Gemeinde Rotterdam",
+      "zuidHolland": "Provinz Zuid-Holland",
+      "cultureelErfgoed": "Niederländische Denkmalbehörde",
+      "rotterdamInfo": "Rotterdam Info",
+      "overheid": "Niederländische Regierung",
+      "nederlandWereldwijd": "Niederlande weltweit"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges, privates Tourismus-Informationsprojekt. Wir stehen in keiner Verbindung zur lokalen Regierung oder zu anderen offiziellen Institutionen.",
+    "imageCredit": "Alle auf dieser Website angezeigten Bilder sind Eigentum der jeweiligen Fotografen und bleiben urheberrechtlich den ursprünglichen Urhebern vorbehalten."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: Mai 2026",
+    "sections": [
+      {
+        "heading": "1. Datenerhebung",
+        "content": "Wir erfassen grundsätzlich keine personenbezogenen Daten von Nutzern. Informationen, die Sie uns über Kontaktformulare oder E-Mails übermitteln, werden streng vertraulich behandelt."
+      },
+      {
+        "heading": "2. Verwendung der Daten",
+        "content": "Die von uns erfassten Informationen dienen ausschließlich der Bereitstellung, Wartung und Verbesserung unserer Dienste sowie der Kommunikation mit Ihnen. Wir verkaufen oder teilen Ihre personenbezogenen Daten nicht zu Marketingzwecken mit Dritten."
+      },
+      {
+        "heading": "3. Cookies und Tracking",
+        "content": "Wir verwenden Cookies und ähnliche Tracking-Technologien, um die Aktivität auf unserer Website zu erfassen und bestimmte Informationen zu speichern. Sie können Ihren Browser anweisen, alle Cookies abzulehnen oder Sie zu benachrichtigen, wenn ein Cookie gesendet wird."
+      },
+      {
+        "heading": "4. Datensicherheit",
+        "content": "Die Sicherheit Ihrer Daten ist uns wichtig. Wir verwenden kommerziell vertretbare Mittel zum Schutz Ihrer personenbezogenen Daten, wobei keine Übertragungsmethode über das Internet zu 100 % sicher ist."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Mai 2026",
+    "sections": [
+      {
+        "heading": "1. Annahme der Bedingungen",
+        "content": "Mit dem Zugriff auf und der Nutzung dieser Website erklären Sie sich mit diesen Nutzungsbedingungen einverstanden. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, dürfen Sie den Dienst nicht nutzen."
+      },
+      {
+        "heading": "2. Nutzung des Dienstes",
+        "content": "Diese Website ist ein unabhängiges, privates Tourismus-Informationsprojekt. Die bereitgestellten Informationen dienen ausschließlich allgemeinen Informationszwecken. Sie verpflichten sich, die Website verantwortungsvoll und rechtmäßig zu nutzen."
+      },
+      {
+        "heading": "3. Geistiges Eigentum",
+        "content": "Alle Inhalte dieser Website, einschließlich Texte, Bilder und Logos, sind – sofern nicht anders angegeben – Eigentum des Website-Betreibers. Unbefugte Nutzung, Vervielfältigung oder Verbreitung ist ausdrücklich untersagt."
+      },
+      {
+        "heading": "4. Haftungsbeschränkung",
+        "content": "Wir haften nicht für direkte, indirekte, zufällige oder Folgeschäden, die aus der Nutzung oder der Unmöglichkeit der Nutzung dieser Website oder der darin enthaltenen Informationen entstehen."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie Ihre Cookie-Präferenzen.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Für die grundlegende Funktionalität der Website erforderlich.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse-Cookies",
+      "description": "Helfen uns zu verstehen, wie Besucher mit der Website interagieren."
+    },
+    "marketing": {
+      "title": "Marketing-Cookies",
+      "description": "Werden verwendet, um Besucher über Websites hinweg zu verfolgen."
+    },
+    "save": "Einstellungen speichern",
+    "saved": "Einstellungen gespeichert!"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "items": ["Erasmusbrug", "Rotterdam", "Zuid-Holland", "Niederlande"]
+  },
+  "faq": {
+    "title": "Häufige Fragen zur Erasmusbrücke",
+    "subtitle": "Kurze Antworten auf die häufigsten Fragen vor Ihrem Besuch der Erasmusbrug in Rotterdam.",
+    "items": [
+      {
+        "q": "Wo befindet sich die Erasmusbrücke?",
+        "a": "Die Erasmusbrug (Erasmusbrücke) liegt in Rotterdam, in der Provinz Zuid-Holland, Niederlande, über der Nieuwe Maas."
+      },
+      {
+        "q": "Ist der Besuch der Erasmusbrücke kostenlos?",
+        "a": "Ja. Die Brücke ist das ganze Jahr über rund um die Uhr kostenlos zu Fuß und mit dem Fahrrad zugänglich."
+      },
+      {
+        "q": "Wie wird die Erasmusbrücke auch genannt?",
+        "a": "Sie ist eine moderne Schrägseilbrücke, die in Rotterdam als „De Zwaan“ (Der Schwan) bekannt ist – entworfen von Ben van Berkel und eröffnet im Jahr 1996."
+      },
+      {
+        "q": "Wer hat die Erasmusbrücke entworfen und wann wurde sie eröffnet?",
+        "a": "Entworfen von Ben van Berkel von UNStudio und 1996 von Königin Beatrix eröffnet."
+      },
+      {
+        "q": "Wie lang ist die Erasmusbrücke?",
+        "a": "Die Brücke ist insgesamt rund 802 Meter lang und besitzt einen 139 Meter hohen weißen Pylon. Der mittlere Teil ist eine Basculebrücke, die angehoben wird, um hohe Schiffe durchzulassen."
+      },
+      {
+        "q": "Was gibt es in der Nähe der Erasmusbrücke zu sehen?",
+        "a": "In der Nähe liegen unter anderem der Euromast, die SS Rotterdam, der Het Park und das Uferviertel Kop van Zuid."
+      },
+      {
+        "q": "Wie komme ich vom Hauptbahnhof Rotterdam zur Erasmusbrücke?",
+        "a": "Gehen Sie ca. 15–20 Minuten über die Willemsbrug, nehmen Sie die Tram 20, 23 oder 25 oder die Metro bis Wilhelminaplein und laufen Sie von dort etwa 5 Minuten."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & Referenzen",
+    "subtitle": "Die Informationen dieses Reiseführers wurden aus den folgenden offiziellen und öffentlichen Quellen zusammengestellt.",
+    "items": [
+      { "label": "Gemeinde Rotterdam", "url": "https://www.rotterdam.nl" },
+      { "label": "Rotterdam Info (offizielle Tourismus-Website)", "url": "https://www.rotterdam.info/en/visit/finder-locations/erasmusbrug" },
+      { "label": "Provinz Zuid-Holland", "url": "https://www.zuid-holland.nl" },
+      { "label": "Niederländische Denkmalbehörde", "url": "https://www.cultureelerfgoed.nl" },
+      { "label": "Erasmusbrug auf Wikipedia", "url": "https://en.wikipedia.org/wiki/Erasmusbrug" }
+    ]
+  },
+  "officialManagement": {
+    "title": "Über die Erasmusbrug",
+    "text": "Die Erasmusbrug ist eine ikonische Basculebrücke in Rotterdam, Niederlande. Die Brücke wurde von Ben van Berkel entworfen und 1996 eröffnet.\n\nDiese Brücke besticht durch ihre einzigartige Architektur mit einem imposanten weißen Pylon von 139 Metern Höhe. Sie zählt zu den bekanntesten Wahrzeichen Rotterdams und ist eine beliebte Touristenattraktion."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  },
+  "weather": {
+    "title": "Live-Wetter · 7-Tage-Vorhersage",
+    "subtitle": "Smarte Tipps werden automatisch aus den aktuellen Bedingungen generiert – ein Regenschirm-Hinweis erscheint nur, wenn Regen wahrscheinlich ist, und rote Warnungen nur bei echtem Risiko.",
+    "labels": {
+      "live": "Live-Wetter",
+      "loadingShort": "Wird geladen",
+      "forecast": "7-Tage-Vorhersage",
+      "days": "Tage",
+      "today": "Heute",
+      "tomorrow": "Morgen",
+      "feels": "Gefühlt",
+      "precip": "Regenrisiko",
+      "uv": "UV",
+      "wind": "Wind",
+      "windLine": "Bft {n} · {speed} km/h",
+      "updated": "Aktualisiert",
+      "refresh": "Wetter aktualisieren",
+      "loading": "Live-Wetter wird geladen …",
+      "error": "Das Wetter ist derzeit nicht verfügbar – bitte versuchen Sie es später erneut.",
+      "retry": "Erneut versuchen",
+      "noWarning": "Keine Wetterwarnungen",
+      "hasWarning": "Wetterrisiko-Warnung",
+      "outfit": "Outfit-Tipps",
+      "play": "Was tun",
+      "gear": "Einpacken",
+      "risk": "Risiko-Warnung",
+      "advice": "Smarte Tipps für heute",
+      "disclaimer": "Automatisch aus Wetterdaten generiert – nur als grobe Orientierung"
+    },
+    "condition": {
+      "clear": "Klar",
+      "partly": "Überwiegend klar",
+      "cloudy": "Wolkig",
+      "overcast": "Bedeckt",
+      "fog": "Nebel",
+      "drizzle": "Nieselregen",
+      "lightRain": "Leichter Regen",
+      "rain": "Regen",
+      "heavyRain": "Starker Regen",
+      "sleet": "Eisregen",
+      "snow": "Schnee",
+      "snowShower": "Schneeschauer",
+      "thunder": "Gewitter"
+    },
+    "uv": {
+      "low": "Niedrig",
+      "moderate": "Mäßig",
+      "high": "Hoch",
+      "veryHigh": "Sehr hoch",
+      "extreme": "Extrem"
+    },
+    "tips": {
+      "mild": { "outfit": ["Mild und angenehm – normale Kleidung; eine leichte Jacke lohnt sich abends am Fluss"] },
+      "heat": { "outfit": ["Sehr heiß – leichte, atmungsaktive Kleidung tragen"], "play": ["Die Mittagssonne meiden und Aktivitäten im Freien auf den Morgen oder späten Nachmittag legen"], "gear": ["Sonnencreme, Hut und ausreichend Wasser"] },
+      "uvHigh": { "outfit": ["Starke UV-Strahlung – schützen Sie sich im Freien"], "gear": ["Sonnencreme, Sonnenbrille und Hut"] },
+      "swing": { "outfit": ["Große Temperaturunterschiede zwischen Tag und Nacht – eine Schicht zum An- und Ausziehen einpacken"] },
+      "cold": { "outfit": ["Es ist kalt – warm anziehen"], "gear": ["Warmen Mantel und Schal einpacken"] },
+      "rainLikely": { "outfit": ["Regen ist wahrscheinlich – vor dem Rausgehen einen Regenschirm mitnehmen"], "play": ["Zuerst die Indoor-Sehenswürdigkeiten besuchen und Pläne am Fluss verschieben"], "gear": ["Regenschirm oder leichte Regenjacke"] },
+      "lightRain": { "outfit": ["Leichter Regen – Wege sind rutschig, Vorsicht beim Gehen"], "play": ["Gehen und Radfahren machen weniger Spaß; ein Museum oder Café ist die gemütlichere Wahl"], "gear": ["Kompakter Regenschirm"] },
+      "rain": { "outfit": ["Anhaltender Regen – wasserdichte Schicht tragen oder Regenschirm mitnehmen"], "play": ["Lange Zeit im Freien ist nicht ideal; Hafenrundfahrten können verschoben werden"], "gear": ["Regenschirm oder Regenjacke"] },
+      "heavyRain": { "outfit": ["Starker Regen – wasserdichte Jacke und rutschfeste Schuhe tragen"], "play": ["Lange Aufenthalte im Freien vermeiden; Hafenrundfahrten werden höchstwahrscheinlich abgesagt"], "gear": ["Regenjacke – bei Wind besser keine langen Schirme"] },
+      "snow": { "outfit": ["Schnee oder Eisregen – warm anziehen und rutschfeste Schuhe tragen"], "play": ["Brücke und Wege können vereist sein – Vorsicht"], "gear": ["Wasserdichte, rutschfeste Schuhe und warme Handschuhe"] },
+      "thunder": { "play": ["Bei Gewitter das offene Brückendeck und die Flussufer meiden – in der Nähe Schutz in Gebäuden suchen"] },
+      "fog": { "play": ["Nebel schränkt die Sicht ein – kein guter Tag für Skyline-Fotos"], "gear": ["Bei Bedarf eine Maske mitnehmen"] },
+      "sunny": { "play": ["Ideal für Outdoor-Pläne – bei Sonnenuntergang über die Brücke gehen und die Skyline-Lichter genießen"], "gear": ["Sonnencreme nicht vergessen"] },
+      "overcast": { "outfit": ["Bewölkt mit weichem Licht – normale Kleidung reicht"], "play": ["Keine grelle Sonne – ideal für lange Spaziergänge und Streetfotografie"] },
+      "windStrong": { "outfit": ["Windig – winddichte Kleidung tragen"], "play": ["Die Maas ist aufgewühlt; Rundfahrten und Wassertaxis können ihren Fahrplan ändern"], "gear": ["Hüte können wegfliegen; auf fließende Kleider verzichten"] },
+      "windGale": { "play": ["Sturm – die meisten Outdoor- und Wasseraktivitäten entfallen; besser Indoor-Pläne wählen"] },
+      "rHeavyRain": { "risk": ["Starke Regenschauer: tief gelegene Uferbereiche und überschwemmte Stellen meiden"] },
+      "rThunder": { "risk": ["Gewitterrisiko: offene Brückenbereiche, das Wasser und den Bereich unter Bäumen meiden"] },
+      "rFog": { "risk": ["Schlechte Sicht: Fähren und Wassertaxis können sich verspäten – beim Überqueren der Brücke Vorsicht"] },
+      "rWind": { "risk": ["Starker Wind: Abstand zu Ufergeländern und hohen offenen Bauwerken halten"] }
+    }
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "title": "Puente Erasmo (Erasmusbrug) Róterdam – Guía, Fotos y Qué Hacer",
+    "description": "Visita el emblemático puente «El Cisne» de Róterdam: transporte y aparcamiento, cuándo se levanta para los barcos, los mejores lugares para fotos — y las mejores cosas que hacer cerca, como Markthal, las Casas Cubo, Euromast y Kop van Zuid."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Puente Erasmo (Róterdam)",
+    "subtitle": "Puente basculante emblemático de Róterdam: disfruta de unas vistas espectaculares sobre el río Mosa",
+    "rating": "4,7(16.598)",
+    "reviewCount": "16.598 reseñas",
+    "type": "Puente basculante · Imprescindible en Róterdam",
+    "openMaps": "Ver ubicación"
+  },
+  "intro": {
+    "title": "Descubre el Puente Erasmo",
+    "description": "El Puente Erasmo (Erasmusbrug) es un emblemático puente basculante situado en Róterdam, Países Bajos. Este puente es famoso por su arquitectura única y es uno de los símbolos más reconocibles de Róterdam.\n\nEl puente cruza el Nieuwe Maas y conecta el norte y el sur de la ciudad. Con su imponente pilono blanco y su distribución asimétrica de cables, el Puente Erasmo es una obra maestra de la ingeniería moderna.\n\nYa sea caminando sobre el puente, admirando la puesta de sol desde la orilla u observando el puente desde un barco turístico, el Puente Erasmo te ofrece una experiencia inolvidable. El puente también es un lugar popular para eventos como la Maratón de Róterdam.",
+    "entityText": "Bienvenido al Puente Erasmo, conocido popularmente como «El Cisne», el puente moderno emblemático de Róterdam, Holanda Meridional, Países Bajos. Este monumento es un punto central para los viajeros que exploran la ciudad y su paseo marítimo.",
+    "nearbyText": "Al visitar el Puente Erasmo, podrás explorar fácilmente los monumentos históricos y puntos de interés cercanos, incluidos Euromast y SS Róterdam.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "El acceso al puente es gratuito, abierto 24 horas los 7 días",
+        "Visítalo temprano por la mañana o al atardecer para las mejores fotos",
+        "Cruza el puente a pie para disfrutar de vistas impresionantes del skyline de Róterdam",
+        "Combina la visita con un paseo por Kop van Zuid"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Características del puente",
+      "items": [
+        "Uno de los puentes más emblemáticos de los Países Bajos",
+        "Arquitectura única con su característico pilono blanco",
+        "Conecta el norte y el sur de Róterdam",
+        "Lugar popular para eventos y fotografía"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Sobre el Puente Erasmo",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia del puente",
+        "content": "El Puente Erasmo fue diseñado por el famoso arquitecto Ben van Berkel de UNStudio. La construcción comenzó en 1986 y el puente fue inaugurado oficialmente en 1996 por la reina Beatriz.\n\nEl puente lleva el nombre de Erasmo de Róterdam (Desiderius Erasmus), famoso humanista y teólogo del siglo XV. Con 802 metros de longitud y 33 metros de ancho, es una estructura impresionante que ha cambiado significativamente el skyline de Róterdam."
+      },
+      {
+        "id": "features",
+        "title": "Características del puente",
+        "content": "El Puente Erasmo cuenta con características únicas:\n\n• Un imponente pilono blanco de 139 metros de altura\n• Distribución asimétrica de cables (un único pilono de gran tamaño)\n• Una sección basculante para el tráfico marítimo\n• Dos pasarelas para bicicletas y peatones a cada lado\n• Un bonito sistema de iluminación nocturna\n\nEstas características hacen del Puente Erasmo uno de los lugares más fotografiados de Róterdam."
+      },
+      {
+        "id": "location",
+        "title": "Ubicación",
+        "content": "El puente está estratégicamente situado en el centro de Róterdam y cruza el Nieuwe Maas. Conecta la zona de la estación central con Kop van Zuid.\n\nDesde el puente tienes una vista impresionante del skyline de Róterdam, incluidos el Witte Huis, el Euromast y el Wilhelminapier. El puente es fácilmente accesible en transporte público y está a poca distancia a pie de la estación central."
+      },
+      {
+        "id": "events",
+        "title": "Eventos",
+        "content": "El Puente Erasmo no es solo una importante arteria de tráfico, sino también un lugar popular para eventos:\n\n• Maratón de Róterdam: la línea de meta está en el Puente Erasmo\n• Rotterdam Harbor Days: iluminación y actividades especiales\n• Sesiones de fotografía y rodajes: se usa con frecuencia como localización de películas\n• Carreras populares y eventos benéficos\n\nConsulta el sitio web oficial de Róterdam para conocer el calendario de eventos más actualizado."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Erasmusbrug",
+    "type": "Tipo de puente",
+    "typeValue": "Puente basculante, imprescindible en Róterdam, atracción de Holanda Meridional",
+    "country": "País",
+    "countryValue": "Países Bajos",
+    "city": "Ciudad",
+    "cityValue": "Róterdam, Holanda Meridional",
+    "googleRating": "Valoración de Google",
+    "address": "Dirección",
+    "addressValue": "Erasmusbrug, 3011 BN Róterdam, Países Bajos"
+  },
+  "hours": {
+    "title": "Acceso al puente",
+    "park": "Acceso al puente",
+    "parkTime": "Abierto 24/7",
+    "bestTime": "Mejor momento para visitar",
+    "bestTimeSpring": "Mañana (7-9 h): ambiente tranquilo y bonita luz matinal",
+    "bestTimeSummer": "Tarde-noche (20-22 h): admira el skyline iluminado y la puesta de sol",
+    "bestTimeAutumn": "Todo el día: temperatura agradable, ideal para fotografiar",
+    "bestTimeWinter": "Tarde (12-15 h): día más corto, pero bonita luz invernal",
+    "tip": "Consulta el sitio web oficial de Róterdam para obtener la información más reciente"
+  },
+  "tickets": {
+    "title": "Información de entrada",
+    "park": "Acceso al puente",
+    "parkPrice": "Completamente gratuito, sin tarifa de entrada",
+    "parking": "Precio del aparcamiento",
+    "parkingPrice": "Aparcamiento de pago en la zona, consulta las zonas de estacionamiento",
+    "guided": "Visitas guiadas",
+    "guidedPrice": "Gratis, visita autoguiada disponible"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "fromCenter": "Desde la estación central de Róterdam",
+    "fromCenterDesc": "Camina unos 15-20 minutos a través del Willemsbrug o toma el tranvía 20 hasta Kop van Zuid. El Puente Erasmo está a poca distancia a pie de la estación.",
+    "fromStation": "Desde las ciudades cercanas",
+    "fromStationDesc": "Toma un tren a la estación central de Róterdam desde La Haya, Ámsterdam, etc., y después camina o toma el tranvía.",
+    "fromAirport": "Desde el aeropuerto de Róterdam-La Haya",
+    "fromAirportDesc": "Toma el autobús hasta la estación central de Róterdam y después el tranvía 20, o camina 15 minutos hasta el puente.",
+    "publicTransport": "Transporte público",
+    "publicTransportDesc": "Los tranvías 20, 23 y 25 paran cerca del Puente Erasmo. La estación de metro Wilhelminaplein está a 5 minutos a pie.",
+    "walking": "A pie o en bicicleta",
+    "walkingDesc": "El puente es muy accesible a pie o en bici. Hay carriles bici separados sobre el puente.",
+    "driving": "En coche y aparcamiento",
+    "drivingDesc": "El aparcamiento en la zona es de pago. Los parkings P+R ofrecen opciones más económicas. El puente en sí no es accesible para coches."
+  },
+  "route": {
+    "title": "Ruta de visita recomendada",
+    "overview": "El Puente Erasmo es perfecto para una visita de medio día o de un día completo. Recomendamos llegar por la mañana para fotos tranquilas, explorar los alrededores por la tarde y disfrutar del skyline iluminado por la noche. Calcula unas 2-3 horas para la visita completa.",
+    "steps": [
+      "Llega al Puente Erasmo por la mañana y cruza el puente para disfrutar de vistas impresionantes",
+      "Visita Kop van Zuid, en el lado sur del puente",
+      "Haz fotos del emblemático pilono blanco desde la orilla del río",
+      "Disfruta del almuerzo en uno de los restaurantes del Wilhelminapier",
+      "Visita la zona portuaria de Róterdam y conoce su historia marítima",
+      "Vuelve a cruzar el puente durante la hora dorada para las mejores fotos",
+      "Admira la iluminación del puente por la noche",
+      "Termina el día con una copa en uno de los bares de azotea del centro"
+    ]
+  },
+  "photoSpots": {
+    "title": "Mejores lugares para fotos",
+    "spots": [
+      {
+        "name": "Vista desde la orilla",
+        "desc": "Fotografía el puente entero desde la orilla norte, con el skyline de fondo"
+      },
+      {
+        "name": "El pilono blanco",
+        "desc": "Fotos de cerca del imponente pilono blanco de 139 metros de altura"
+      },
+      {
+        "name": "Kop van Zuid",
+        "desc": "Vista del puente desde Kop van Zuid, con edificios históricos en primer plano"
+      },
+      {
+        "name": "Puesta de sol",
+        "desc": "El puente al atardecer, con preciosos colores en el horizonte"
+      },
+      {
+        "name": "Iluminación nocturna",
+        "desc": "El puente de noche, con una iluminación atmosférica y su reflejo en el agua"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Alojamiento",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "Galería de fotos",
+    "subtitle": "Puente Erasmo: puente basculante emblemático de Róterdam",
+    "captions": [
+      "Vista del puente 1",
+      "Vista del puente 2",
+      "Vista del puente 3",
+      "Vista del puente 4",
+      "Vista del puente 5",
+      "Vista del puente 6",
+      "Vista del puente 7",
+      "Vista del puente 8",
+      "Vista del puente 9",
+      "Vista del puente 10",
+      "Vista del puente 11",
+      "Vista del puente 12",
+      "Vista del puente 13",
+      "Vista del puente 14",
+      "Vista del puente 15"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAll": "Ver todas las fotos",
+    "showLess": "Ver menos"
+  },
+  "reviews": {
+    "title": "Reseñas de visitantes",
+    "declaration": "Las opiniones de los visitantes pueden consultarse a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver más reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "mayo de 2026",
+        "rating": 5,
+        "text": "¡El Puente Erasmo fue lo mejor de nuestro viaje a Róterdam! La arquitectura del puente es increíble y el pilono blanco es impresionante. Las vistas del skyline desde el puente eran sobrecogedoras: ¡sin duda vale la pena visitarlo!"
+      },
+      {
+        "name": "Li Meiling",
+        "date": "abril de 2026",
+        "rating": 5,
+        "text": "Cruzar el puente a pie fue una experiencia increíble. Se ven vistas de 360 grados de Róterdam. La iluminación nocturna era especialmente bonita: ¡hicimos muchísimas fotos!"
+      },
+      {
+        "name": "Wang Jianguo",
+        "date": "marzo de 2026",
+        "rating": 5,
+        "text": "El diseño arquitectónico de este puente es impresionante. La distribución asimétrica de los cables es muy singular. Gran ubicación, muy cerca de la estación central: transporte súper cómodo."
+      },
+      {
+        "name": "Chen Xiaowen",
+        "date": "febrero de 2026",
+        "rating": 5,
+        "text": "Entre todos los monumentos de Róterdam, el Puente Erasmo está sin duda en el top 3. Muy tranquilo a primera hora de la mañana, perfecto para fotografiar. ¡El espectáculo de luces nocturno también es imperdible!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y ruta",
+    "subtitle": "Erasmusbrug, 3011 BN Róterdam, Países Bajos",
+    "openMaps": "Ver en Google Maps",
+    "officialPortalText": "Para actualizaciones oficiales e información turística regional, visita",
+    "officialPortalLabel": "Portal turístico oficial de Países Bajos / Holanda Meridional"
+  },
+  "footer": {
+    "rights": "© 2026 Asociación independiente de investigación turística Erasmusbrug · Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Condiciones del servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos e información relacionados",
+    "officialLinks": {
+      "rotterdam": "Municipio de Róterdam",
+      "zuidHolland": "Provincia de Holanda Meridional",
+      "cultureelErfgoed": "Patrimonio cultural",
+      "rotterdamInfo": "Rotterdam Info",
+      "overheid": "Gobierno neerlandés",
+      "nederlandWereldwijd": "Países Bajos en el mundo"
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística creado por terceros. No estamos afiliados al gobierno local ni a ninguna otra institución oficial.",
+    "imageCredit": "Todas las imágenes mostradas en este sitio web pertenecen a sus respectivos fotógrafos y conservan los derechos de autor de sus creadores originales."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: mayo de 2026",
+    "sections": [
+      {
+        "heading": "1. Recopilación de información",
+        "content": "Por lo general, no recopilamos activamente información personal identificable de los usuarios. Cualquier información que nos proporciones a través de formularios de contacto o correos electrónicos se mantendrá estrictamente confidencial."
+      },
+      {
+        "heading": "2. Uso de la información",
+        "content": "La información que recopilamos se utiliza únicamente para proporcionar, mantener y mejorar nuestros servicios, así como para comunicarnos contigo. No vendemos ni compartimos tu información personal con terceros con fines de marketing."
+      },
+      {
+        "heading": "3. Cookies y seguimiento",
+        "content": "Utilizamos cookies y tecnologías de seguimiento similares para analizar la actividad de nuestro sitio web y conservar cierta información. Puedes configurar tu navegador para rechazar todas las cookies o para avisarte cuando se envíe una."
+      },
+      {
+        "heading": "4. Seguridad de los datos",
+        "content": "La seguridad de tus datos es importante para nosotros. Utilizamos medios comercialmente aceptables para proteger tus datos personales, aunque ningún método de transmisión por Internet es 100 % seguro."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Condiciones del servicio",
+    "lastUpdated": "Última actualización: mayo de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de las condiciones",
+        "content": "Al acceder y utilizar este sitio web, aceptas quedar vinculado por estas condiciones del servicio. Si no estás de acuerdo con alguna parte de las condiciones, no podrás acceder al servicio."
+      },
+      {
+        "heading": "2. Uso del servicio",
+        "content": "Este sitio web es un proyecto independiente de información turística creado por terceros. La información proporcionada tiene únicamente fines informativos generales. Aceptas utilizar el sitio de forma responsable y conforme a la ley."
+      },
+      {
+        "heading": "3. Propiedad intelectual",
+        "content": "Todo el contenido de este sitio web, incluidos textos, imágenes y logotipos, pertenece al propietario del sitio salvo que se indique lo contrario. Queda estrictamente prohibido el uso, la reproducción o la distribución no autorizados."
+      },
+      {
+        "heading": "4. Limitación de responsabilidad",
+        "content": "No seremos responsables de ningún daño directo, indirecto, incidental o consecuente derivado del uso o de la imposibilidad de uso de este sitio web o de la información que contiene."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestiona tus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies esenciales",
+      "description": "Necesarias para el funcionamiento básico del sitio web.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies de análisis",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con el sitio."
+    },
+    "marketing": {
+      "title": "Cookies de marketing",
+      "description": "Se utilizan para rastrear a los visitantes en distintos sitios web."
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "items": ["Erasmusbrug", "Róterdam", "Holanda Meridional", "Países Bajos"]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes sobre el Puente Erasmo",
+    "subtitle": "Respuestas rápidas a las preguntas más habituales antes de visitar el Puente Erasmo en Róterdam.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra el Puente Erasmo?",
+        "a": "El Puente Erasmo se encuentra en Róterdam, Holanda Meridional, Países Bajos."
+      },
+      {
+        "q": "¿La visita al Puente Erasmo es gratuita?",
+        "a": "Sí, es gratis y está abierto 24 horas al día, todo el año."
+      },
+      {
+        "q": "¿Por qué otro nombre se conoce el Puente Erasmo?",
+        "a": "Es un puente atirantado moderno conocido localmente como «El Cisne», diseñado por Ben van Berkel e inaugurado en 1996."
+      },
+      {
+        "q": "¿Quién diseñó el Puente Erasmo y cuándo se inauguró?",
+        "a": "Fue diseñado por Ben van Berkel de UNStudio e inaugurado en 1996 por la reina Beatriz."
+      },
+      {
+        "q": "¿Cuánto mide el Puente Erasmo?",
+        "a": "El puente mide unos 802 metros de longitud total y tiene un pilono blanco de 139 metros de altura. La sección central es un puente basculante que se levanta para dejar pasar a los barcos altos."
+      },
+      {
+        "q": "¿Qué se puede ver cerca del Puente Erasmo?",
+        "a": "Los monumentos cercanos incluyen Euromast, SS Róterdam, el parque Het Park y el paseo marítimo de Kop van Zuid."
+      },
+      {
+        "q": "¿Cómo llego al Puente Erasmo desde la estación central de Róterdam?",
+        "a": "Camina unos 15-20 minutos por el Willemsbrug, toma el tranvía 20, 23 o 25, o usa el metro hasta Wilhelminaplein, a 5 minutos a pie."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y referencias",
+    "subtitle": "La información de esta guía del visitante se ha recopilado de las siguientes fuentes oficiales y públicas.",
+    "items": [
+      { "label": "Municipio de Róterdam", "url": "https://www.rotterdam.nl" },
+      { "label": "Rotterdam Info (Turismo oficial)", "url": "https://www.rotterdam.info/en/visit/finder-locations/erasmusbrug" },
+      { "label": "Provincia de Holanda Meridional", "url": "https://www.zuid-holland.nl" },
+      { "label": "Agencia neerlandesa del Patrimonio Cultural", "url": "https://www.cultureelerfgoed.nl" },
+      { "label": "Puente Erasmo en Wikipedia", "url": "https://en.wikipedia.org/wiki/Erasmusbrug" }
+    ]
+  },
+  "officialManagement": {
+    "title": "Sobre el Puente Erasmo",
+    "text": "El Puente Erasmo es un emblemático puente basculante situado en Róterdam, Países Bajos. El puente fue diseñado por Ben van Berkel e inaugurado en 1996.\n\nEste puente presenta una arquitectura única con un imponente pilono blanco de 139 metros de altura. Es uno de los símbolos más reconocibles de Róterdam y una atracción turística popular."
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
+  },
+  "weather": {
+    "title": "El tiempo en directo · Pronóstico de 7 días",
+    "subtitle": "Se generan consejos inteligentes a partir de las condiciones en directo: la sugerencia del paraguas solo aparece cuando es probable que llueva, y las alertas rojas solo cuando existe un riesgo real.",
+    "labels": {
+      "live": "Tiempo en directo",
+      "loadingShort": "Cargando",
+      "forecast": "Pronóstico de 7 días",
+      "days": "días",
+      "today": "Hoy",
+      "tomorrow": "Mañana",
+      "feels": "Sensación",
+      "precip": "Probabilidad de lluvia",
+      "uv": "UV",
+      "wind": "Viento",
+      "windLine": "Bft {n} · {speed} km/h",
+      "updated": "Actualizado",
+      "refresh": "Actualizar el tiempo",
+      "loading": "Obteniendo el tiempo en directo…",
+      "error": "El tiempo no está disponible ahora mismo: inténtalo de nuevo más tarde.",
+      "retry": "Reintentar",
+      "noWarning": "Sin avisos meteorológicos",
+      "hasWarning": "Alerta de riesgo meteorológico",
+      "outfit": "Consejos de vestuario",
+      "play": "Qué hacer",
+      "gear": "Qué llevar",
+      "risk": "Alerta de riesgo",
+      "advice": "Consejos para hoy",
+      "disclaimer": "Generado automáticamente a partir de los datos meteorológicos como guía aproximada"
+    },
+    "condition": {
+      "clear": "Despejado",
+      "partly": "Mayormente despejado",
+      "cloudy": "Nublado",
+      "overcast": "Cubierto",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "lightRain": "Lluvia ligera",
+      "rain": "Lluvia",
+      "heavyRain": "Lluvia intensa",
+      "sleet": "Aguanieve helada",
+      "snow": "Nieve",
+      "snowShower": "Chubascos de nieve",
+      "thunder": "Tormentas"
+    },
+    "uv": {
+      "low": "Bajo",
+      "moderate": "Moderado",
+      "high": "Alto",
+      "veryHigh": "Muy alto",
+      "extreme": "Extremo"
+    },
+    "tips": {
+      "mild": { "outfit": ["Suave y agradable: vístete como siempre; una capa ligera ayuda cerca del río por la noche"] },
+      "heat": { "outfit": ["Mucho calor: lleva ropa ligera y transpirable"], "play": ["Evita el sol del mediodía y planifica las actividades al aire libre para la mañana o el final de la tarde"], "gear": ["Protector solar, sombrero y mucha agua"] },
+      "uvHigh": { "outfit": ["Los rayos UV son fuertes: protégete al aire libre"], "gear": ["Protector solar, gafas de sol y sombrero"] },
+      "swing": { "outfit": ["Gran contraste de temperatura entre el día y la noche: lleva una capa que puedas poner y quitar"] },
+      "cold": { "outfit": ["Hace frío: abrígate bien"], "gear": ["Un abrigo caliente y bufanda"] },
+      "rainLikely": { "outfit": ["Es probable que llueva: coge un paraguas antes de salir"], "play": ["Empieza por los lugares de interior y deja los planes junto al río para otro momento"], "gear": ["Paraguas o chubasquero ligero"] },
+      "lightRain": { "outfit": ["Lluvia ligera: los caminos están resbaladizos, ten cuidado al caminar"], "play": ["Caminar e ir en bici son menos agradables; un museo o una cafetería son una opción más acogedora"], "gear": ["Paraguas compacto"] },
+      "rain": { "outfit": ["Lluvia constante: lleva una capa impermeable o paraguas"], "play": ["No son ideales las horas largas al aire libre; los cruceros por el río pueden reprogramarse"], "gear": ["Paraguas o impermeable"] },
+      "heavyRain": { "outfit": ["Lluvia intensa: lleva chaqueta impermeable y calzado con agarre"], "play": ["Evita pasar mucho tiempo al aire libre; lo más probable es que los cruceros fluviales se suspendan"], "gear": ["Impermeable: evita los paraguas grandes cuando haga viento"] },
+      "snow": { "outfit": ["Nieve o aguanieve: vístete con abrigo y calzado antideslizante"], "play": ["El puente y los caminos pueden estar helados: ve con calma"], "gear": ["Calzado impermeable antideslizante y guantes cálidos"] },
+      "thunder": { "play": ["Durante las tormentas, mantente alejado del tablero abierto del puente y de las orillas: refúgiate en un lugar cerrado cercano"] },
+      "fog": { "play": ["La niebla limita la visibilidad: no es un buen día para fotos del skyline"], "gear": ["Una mascarilla si la necesitas"] },
+      "sunny": { "play": ["Perfecto para planes al aire libre: cruza el puente al atardecer para disfrutar de las luces del skyline"], "gear": ["No olvides la protección solar al aire libre"] },
+      "overcast": { "outfit": ["Nublado con luz suave: las capas normales están bien"], "play": ["Sin sol intenso: ideal para caminatas largas y fotografía urbana"] },
+      "windStrong": { "outfit": ["Ventoso: lleva algo cortavientos"], "play": ["El Mosa se agita; los cruceros y waterbuses pueden cambiar sus horarios"], "gear": ["Los sombreros pueden salir volando; evita los vestidos holgados"] },
+      "windGale": { "play": ["Viento huracanado: la mayoría de las actividades al aire libre y acuáticas se cancelan; elige planes de interior"] },
+      "rHeavyRain": { "risk": ["Lluvias torrenciales: evita las zonas bajas junto al río y las áreas inundadas"] },
+      "rThunder": { "risk": ["Riesgo de tormenta: aléjate de las zonas abiertas del puente, del borde del agua y de los árboles"] },
+      "rFog": { "risk": ["Mala visibilidad: los ferris y waterbuses pueden sufrir retrasos; ten cuidado al cruzar el puente"] },
+      "rWind": { "risk": ["Viento fuerte: mantente alejado de las barandillas junto al río y de las estructuras abiertas altas"] }
+    }
+  }
+}

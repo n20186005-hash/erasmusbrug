@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Erasmusbrug Rotterdam | Iconische Basculebrug - Must-See Attractie",
-    "description": "Complete gids voor de Erasmusbrug in Rotterdam, Nederland. Ontdek deze iconische basculebrug, de geschiedenis, bezienswaardigheden en bezoekersinformatie. Geniet van het prachtige uitzicht over de Maas."
+    "title": "Erasmusbrug Rotterdam – De Zwaan: Bezienswaardigheden & Tips",
+    "description": "De complete gids voor de iconische Erasmusbrug ('De Zwaan') in Rotterdam: gratis 24/7 te bezoeken, met parkeren, bereikbaarheid, brugopeningen en fotolocaties — plus bezienswaardigheden in de buurt zoals de Markthal, Kubuswoningen en de Euromast."
   },
   "header": {
     "home": "Home",
@@ -269,5 +269,113 @@
   "officialManagement": {
     "title": "Over de Erasmusbrug",
     "text": "De Erasmusbrug is een iconische basculebrug gelegen in Rotterdam, Nederland. De brug is ontworpen door Ben van Berkel en werd geopend in 1996.\n\nDeze brug beschikt over unieke architectuur met een imposante witte pijler van 139 meter hoog. Het is een van de meest herkenbare symbolen van Rotterdam en een populaire toeristische attractie."
+  },
+  "faq": {
+    "title": "Veelgestelde vragen over de Erasmusbrug",
+    "subtitle": "Korte antwoorden op de meest gestelde vragen voordat u de Erasmusbrug in Rotterdam bezoekt.",
+    "items": [
+      {
+        "q": "Waar ligt de Erasmusbrug?",
+        "a": "De Erasmusbrug ligt in Rotterdam, in de provincie Zuid-Holland, Nederland, over de Nieuwe Maas."
+      },
+      {
+        "q": "Is de Erasmusbrug gratis te bezoeken?",
+        "a": "Ja. De brug is het hele jaar door gratis, 24 uur per dag, te voet en per fiets toegankelijk."
+      },
+      {
+        "q": "Hoe wordt de Erasmusbrug ook wel genoemd?",
+        "a": "Het is een moderne tuibrug, lokaal bekend als 'De Zwaan' (The Swan), ontworpen door Ben van Berkel en geopend in 1996."
+      },
+      {
+        "q": "Wie ontwierp de Erasmusbrug en wanneer werd hij geopend?",
+        "a": "De brug is ontworpen door Ben van Berkel van UNStudio en werd in 1996 geopend door koningin Beatrix."
+      },
+      {
+        "q": "Hoe lang is de Erasmusbrug?",
+        "a": "De totale lengte is ongeveer 802 meter, met een witte pylon van circa 139 meter hoog. Het middendeel is een basculebrug die omhoog gaat om hoge schepen door te laten."
+      },
+      {
+        "q": "Wat is er in de buurt van de Erasmusbrug te doen?",
+        "a": "Lopend bereikbaar zijn onder meer de Euromast, de SS Rotterdam, Het Park en het waterfront van Kop van Zuid."
+      },
+      {
+        "q": "Hoe kom ik vanaf Rotterdam Centraal bij de Erasmusbrug?",
+        "a": "Loop circa 15-20 minuten via de Willemsbrug, neem tram 20, 23 of 25, of metro tot station Wilhelminaplein en loop daarna circa 5 minuten."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Live weer · 7-daagse verwachting",
+    "subtitle": "Slimme tips worden gegenereerd op basis van live weer — een paraplu-tip verschijnt alleen als het kan gaan regenen, en waarschuwingen alleen bij echt risico.",
+    "labels": {
+      "live": "Live weer",
+      "loadingShort": "Laden",
+      "forecast": "7-daagse verwachting",
+      "days": "dagen",
+      "today": "Vandaag",
+      "tomorrow": "Morgen",
+      "feels": "Gevoel",
+      "precip": "Kans op neerslag",
+      "uv": "UV",
+      "wind": "Wind",
+      "windLine": "Windkracht {n} · {speed} km/u",
+      "updated": "Bijgewerkt",
+      "refresh": "Weer verversen",
+      "loading": "Live weer ophalen…",
+      "error": "Het weer is nu niet beschikbaar — probeer het later opnieuw.",
+      "retry": "Opnieuw proberen",
+      "noWarning": "Geen weerwaarschuwingen",
+      "hasWarning": "Weerrisico",
+      "outfit": "Kledingtips",
+      "play": "Activiteiten",
+      "gear": "Neem mee",
+      "risk": "Risicowaarschuwing",
+      "advice": "Slimme tips voor vandaag",
+      "disclaimer": "Automatisch gegenereerd uit weergegevens, als indicatie"
+    },
+    "condition": {
+      "clear": "Helder",
+      "partly": "Overwegend helder",
+      "cloudy": "Bewolkt",
+      "overcast": "Zwaar bewolkt",
+      "fog": "Mist",
+      "drizzle": "Motregen",
+      "lightRain": "Lichte regen",
+      "rain": "Regen",
+      "heavyRain": "Zware regen",
+      "sleet": "Ijzel",
+      "snow": "Sneeuw",
+      "snowShower": "Sneeuwbuien",
+      "thunder": "Onweer"
+    },
+    "uv": {
+      "low": "Laag",
+      "moderate": "Matig",
+      "high": "Hoog",
+      "veryHigh": "Zeer hoog",
+      "extreme": "Extreem"
+    },
+    "tips": {
+      "mild": { "outfit": ["Mild en comfortabel — normale kleding volstaat; neem langs de rivier een extra laagje mee"] },
+      "heat": { "outfit": ["Heet — draag luchtige kleding"], "play": ["Vermijd de middagzon; plan buitenactiviteiten 's ochtends of 's avonds"], "gear": ["Zonnebrandcrème, hoed en voldoende water"] },
+      "uvHigh": { "outfit": ["Sterke UV-straling — bescherm jezelf buiten"], "gear": ["Zonnebrandcrème, zonnebril en hoed"] },
+      "swing": { "outfit": ["Groot temperatuurverschil dag en nacht — neem een laagje mee dat je makkelijk aan- en uittrekt"] },
+      "cold": { "outfit": ["Het is koud — kleed je warm aan"], "gear": ["Warme jas en sjaal"] },
+      "rainLikely": { "outfit": ["Grote kans op regen — neem een paraplu mee"], "play": ["Kies eerst voor binnenactiviteiten; plannen langs de rivier kun je beter uitstellen"], "gear": ["Paraplu of lichte regenjas"] },
+      "lightRain": { "outfit": ["Lichte regen — gladde paden, let op je stap"], "play": ["Lopen en fietsen zijn minder prettig; een museum of café is gezelliger"], "gear": ["Compacte paraplu"] },
+      "rain": { "outfit": ["Aanhoudende regen — draag een waterdichte laag of neem een paraplu mee"], "play": ["Lang buiten zijn is geen pretje; riviercruises kunnen worden aangepast"], "gear": ["Paraplu of regenjas"] },
+      "heavyRain": { "outfit": ["Zware regen — draag een waterdichte jas en stevige schoenen"], "play": ["Vermijd lang buiten zijn; riviercruises zullen hoogstwaarschijnlijk uitvallen"], "gear": ["Regenjas; geen lange paraplu bij wind"] },
+      "snow": { "outfit": ["Sneeuw of ijzel — kleed je warm en draag antislipschoenen"], "play": ["De brug en paden kunnen glad zijn — doe rustig aan"], "gear": ["Waterdichte antislipschoenen en warme handschoenen"] },
+      "thunder": { "play": ["Blijf bij onweer weg van het open brugdek en de rivieroevers — zoek beschutting binnen"] },
+      "fog": { "play": ["Mist beperkt het uitzicht — geen goede dag voor skylinefoto's"], "gear": ["Een mondmasker indien nodig"] },
+      "sunny": { "play": ["Perfect voor buitenplannen — ga rond zonsondergang de brug op voor de skyline"], "gear": ["Vergeet zonnebescherming niet"] },
+      "overcast": { "outfit": ["Bewolkt met zacht licht — normale kleding volstaat"], "play": ["Geen felle zon — ideaal voor lange wandelingen en stadsfoto's"] },
+      "windStrong": { "outfit": ["Winderig — draag iets winddichts"], "play": ["De Maas wordt onstuimig; cruises en waterbussen kunnen wijzigen"], "gear": ["Hoeden waaien weg; geen zwierige rokken"] },
+      "windGale": { "play": ["Zware wind — de meeste buiten- en wateractiviteiten vervallen; kies binnenplannen"] },
+      "rHeavyRain": { "risk": ["Zware buien: vermijd lage plekken en overstromingsgevoelige gebieden langs de rivier"] },
+      "rThunder": { "risk": ["Onweersrisico: blijf weg van open brugdelen, de waterkant en onder bomen"] },
+      "rFog": { "risk": ["Slecht zicht: veerboten en waterbussen kunnen vertraging hebben — wees voorzichtig op de brug"] },
+      "rWind": { "risk": ["Hard wind: blijf weg van relingen langs de rivier en hoge open constructies"] }
+    }
   }
 }
