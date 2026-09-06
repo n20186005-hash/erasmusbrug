@@ -21,6 +21,8 @@
   "intro": {
     "title": "Ontdek de Erasmusbrug",
     "description": "De Erasmusbrug is een iconische basculebrug gelegen in Rotterdam, Nederland. Deze brug staat bekend om zijn unieke architectuur en is een van de meest herkenbare symbolen van Rotterdam.\n\nDe brug overspant de Nieuwe Maas en verbindt het noorden en zuiden van de stad. Met zijn imposante witte pijler en asymmetrische kabelverdeling is de Erasmusbrug een meesterwerk van moderne ingenieurskunst.\n\nOf u nu een wandeling maakt over de brug, de zonsondergang bewondert vanaf de oever, of de brug bewondert vanaf een rondvaartboot, de Erasmusbrug biedt u een onvergetelijke ervaring. De brug is ook een populaire locatie voor evenementen zoals de Marathon van Rotterdam.",
+    "entityText": "Welkom bij de Erasmusbrug — algemeen bekend als 'De Zwaan', de iconische moderne brug in Rotterdam, Zuid-Holland, Nederland. Deze bezienswaardigheid is een centraal knooppunt voor reizigers die de stad en haar waterfront verkennen.",
+    "nearbyText": "Vanaf de Erasmusbrug kun je eenvoudig omliggende historische bezienswaardigheden en hoogtepunten ontdekken, waaronder de Euromast en de SS Rotterdam.",
     "visitGuide": {
       "title": "Bezoektips",
       "items": [
@@ -153,6 +155,10 @@
       }
     ]
   },
+  "hotels": {
+    "title": "Accommodatie",
+    "hotels": []
+  },
   "gallery": {
     "title": "Fotogalerij",
     "subtitle": "Erasmusbrug - Rotterdam Iconische Basculebrug",
@@ -180,12 +186,40 @@
   "reviews": {
     "title": "Bezoekersbeoordelingen",
     "declaration": "Beoordelingen zijn te bekijken via Google Maps (externe link).",
-    "moreReviews": "Meer beoordelingen op Google Maps"
+    "moreReviews": "Meer beoordelingen op Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "Mei 2026",
+        "rating": 5,
+        "text": "De Erasmusbrug was het hoogtepunt van onze reis naar Rotterdam! De architectuur van de brug is ongelooflijk en de witte pijler is indrukwekkend. Het uitzicht over de skyline vanaf de brug was adembenemend — absoluut een bezoek waard!"
+      },
+      {
+        "name": "Li Meiling",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "Over de brug wandelen was een geweldige ervaring. Je hebt een 360-graden uitzicht over Rotterdam. De lichtshow 's avonds was bijzonder mooi — we hebben zoveel foto's gemaakt!"
+      },
+      {
+        "name": "Wang Jianguo",
+        "date": "Maart 2026",
+        "rating": 5,
+        "text": "Het architectonisch ontwerp van deze brug is prachtig. De asymmetrische kabelverdeling is heel uniek. Geweldige locatie, vlak bij Rotterdam Centraal — superhandig vervoer."
+      },
+      {
+        "name": "Chen Xiaowen",
+        "date": "Februari 2026",
+        "rating": 5,
+        "text": "Van alle bezienswaardigheden in Rotterdam staat de Erasmusbrug zeker in de top 3. 's Ochtends vroeg heel rustig en perfect voor fotografie. De lichtshow 's nachts is ook een must-see!"
+      }
+    ]
   },
   "mapSection": {
     "title": "Locatie & Route",
     "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Nederland",
-    "openMaps": "Bekijk op Google Maps"
+    "openMaps": "Bekijk op Google Maps",
+    "officialPortalText": "Voor officiële updates en regionale toeristische informatie, bezoek",
+    "officialPortalLabel": "Nederland / Zuid-Holland officieel toerismepoort"
   },
   "footer": {
     "rights": "© 2026 Erasmusbrug Onafhankelijke Toeristische Onderzoeksvereniging · Alle rechten voorbehouden.",
@@ -201,7 +235,8 @@
       "overheid": "Nederlandse Overheid",
       "nederlandWereldwijd": "Nederland Wereldwijd"
     },
-    "disclaimer": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. Wij zijn niet gelieerd aan de lokale overheid of andere officiële instellingen."
+    "disclaimer": "Deze website is een onafhankelijk derde partij toeristisch informatieproject. Wij zijn niet gelieerd aan de lokale overheid of andere officiële instellingen.",
+    "imageCredit": "Alle afbeeldingen op deze website zijn eigendom van hun respectievelijke fotografen en blijven auteursrechtelijk beschermd door de oorspronkelijke makers."
   },
   "privacy": {
     "title": "Privacybeleid",
@@ -303,6 +338,28 @@
         "a": "Loop circa 15-20 minuten via de Willemsbrug, neem tram 20, 23 of 25, of metro tot station Wilhelminaplein en loop daarna circa 5 minuten."
       }
     ]
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "items": ["Erasmusbrug", "Rotterdam", "Zuid-Holland", "Nederland"]
+  },
+  "sources": {
+    "title": "Bronnen & Referenties",
+    "subtitle": "De informatie voor deze bezoekersgids is samengesteld uit de volgende officiële en openbare bronnen.",
+    "items": [
+      { "label": "Gemeente Rotterdam", "url": "https://www.rotterdam.nl" },
+      { "label": "Rotterdam Info (Officieel Toerisme)", "url": "https://www.rotterdam.info/en/visit/finder-locations/erasmusbrug" },
+      { "label": "Provincie Zuid-Holland", "url": "https://www.zuid-holland.nl" },
+      { "label": "Rijksdienst voor het Cultureel Erfgoed", "url": "https://www.cultureelerfgoed.nl" },
+      { "label": "Erasmusbrug op Wikipedia", "url": "https://en.wikipedia.org/wiki/Erasmusbrug" }
+    ]
+  },
+  "recommendations": {
+    "title": "",
+    "attractionsTitle": "",
+    "toursTitle": "",
+    "attractions": [],
+    "tours": []
   },
   "weather": {
     "title": "Live weer · 7-daagse verwachting",

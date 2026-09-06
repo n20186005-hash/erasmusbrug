@@ -1,7 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
-import { absUrl, languageAlternates } from '@/config/site';
+import { buildLegalPageMetadata } from '@/config/seo';
 
 export async function generateMetadata({
   params,
@@ -9,13 +9,12 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const path = '/privacy-policy';
-  return {
-    alternates: {
-      canonical: absUrl(locale, path),
-      languages: languageAlternates(path),
-    },
-  };
+  return buildLegalPageMetadata({
+    locale,
+    path: '/privacy-policy',
+    docKey: 'privacy',
+    fallbackTitle: 'Privacy Policy',
+  });
 }
 
 function PrivacyContent() {

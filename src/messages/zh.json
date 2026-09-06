@@ -21,6 +21,8 @@
   "intro": {
     "title": "探索 Erasmusbrug",
     "description": "Erasmusbrug（伊拉斯谟桥）是位于荷兰鹿特丹市的一座标志性吊桥。这座桥以其独特的建筑风格而闻名，是鹿特丹最易识别的象征之一。\n\n大桥横跨马斯基夫河，连接城市的北部和南部。其引人注目的白色桥塔和不对称的缆索分布使 Erasmusbrug 成为现代工程艺术的杰作。\n\n无论您是步行过桥欣赏鹿特丹天际线，还是在岸边观赏日落，亦或是从观光船上欣赏大桥，Erasmusbrug 都能为您提供难忘的体验。这座桥也是鹿特丹马拉松等活动的热门地点。",
+    "entityText": "欢迎来到 Erasmusbrug——荷兰南荷兰省鹿特丹这座闻名遐迩的标志性现代大桥，因其优雅的白色桥塔常被昵称为「天鹅桥」。这里是游客探索城市与滨水区的重要地标与必经之处。",
+    "nearbyText": "游览 Erasmusbrug 时，您可以轻松前往周边历史地标与景点，包括欧洲桅杆 Euromast 与 SS Rotterdam 邮轮。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -215,7 +217,9 @@
   "mapSection": {
     "title": "交通指南",
     "subtitle": "Erasmusbrug, 3011 BN Rotterdam, Nederland",
-    "openMaps": "在 Google Maps 查看"
+    "openMaps": "在 Google Maps 查看",
+    "officialPortalText": "获取官方动态与地区旅游资讯，请访问",
+    "officialPortalLabel": "荷兰 / 南荷兰省官方旅游门户"
   },
   "footer": {
     "rights": "© 2026 Erasmusbrug 独立旅游研究协会 · 保留所有权利。",
@@ -231,7 +235,8 @@
       "overheid": "荷兰公共服务",
       "nederlandWereldwijd": "荷兰环球"
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "imageCredit": "本网站展示的全部图片归原摄影师所有，版权保留给原作者。"
   },
   "privacy": {
     "title": "隐私政策",
@@ -332,6 +337,21 @@
         "q": "从鹿特丹中央车站怎么去伊拉斯谟桥？",
         "a": "经威廉姆斯桥步行约 15–20 分钟，或乘 20、23、25 路电车；乘地铁到 Wilhelminaplein 站后步行约 5 分钟。"
       }
+    ]
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "items": ["伊拉斯谟桥", "鹿特丹", "南荷兰省", "荷兰"]
+  },
+  "sources": {
+    "title": "来源与参考",
+    "subtitle": "本游玩指南的信息汇编自以下官方与公开资料。",
+    "items": [
+      { "label": "鹿特丹市政府", "url": "https://www.rotterdam.nl" },
+      { "label": "Rotterdam Info（鹿特丹官方旅游）", "url": "https://www.rotterdam.info/en/visit/finder-locations/erasmusbrug" },
+      { "label": "南荷兰省政府", "url": "https://www.zuid-holland.nl" },
+      { "label": "荷兰文化遗产局", "url": "https://www.cultureelerfgoed.nl" },
+      { "label": "维基百科上的 Erasmusbrug", "url": "https://en.wikipedia.org/wiki/Erasmusbrug" }
     ]
   },
   "recommendations": {

@@ -1,7 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
-import { absUrl, languageAlternates } from '@/config/site';
+import { buildLegalPageMetadata } from '@/config/seo';
 
 export async function generateMetadata({
   params,
@@ -9,13 +9,12 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const path = '/cookie-settings';
-  return {
-    alternates: {
-      canonical: absUrl(locale, path),
-      languages: languageAlternates(path),
-    },
-  };
+  return buildLegalPageMetadata({
+    locale,
+    path: '/cookie-settings',
+    docKey: 'cookieSettings',
+    fallbackTitle: 'Cookie Settings',
+  });
 }
 
 export default async function CookiePage({
