@@ -434,5 +434,33 @@
       "rFog": { "risk": ["Poor visibility: ferries and waterbuses may be delayed — take care crossing the bridge"] },
       "rWind": { "risk": ["Strong wind: keep away from riverside railings and tall open structures"] }
     }
+  },
+  "amenities": {
+    "title": "Practical Facilities & Nearby Services",
+    "subtitle": "Erasmusbrug is a public bridge with no facilities of its own. Services such as toilets, shops and restaurants are found in the surrounding districts of Kop van Zuid, Wilhelminapier and the city centre. The guide below only lists types of services and stays neutral – no specific businesses are recommended.",
+    "toilets": {
+      "title": "Public Toilets (WC)",
+      "desc": "There are no toilets on the bridge itself. The nearest public toilets are in the surrounding city-centre and Kop van Zuid / Wilhelminapier area, for example at transport hubs, public buildings and parks. Most public toilets in the Netherlands are pay toilets with a small coin or contactless fee. Toilets inside cafés and restaurants are generally reserved for customers."
+    },
+    "parking": {
+      "title": "Parking",
+      "desc": "Cars cannot drive onto the bridge itself; parking is in the paid zones around it. Options include paid on-street parking and multi-storey car parks in the city centre and around Kop van Zuid. P+R sites at the edge of the city are usually cheaper and connect to the centre by tram or metro. Electric charging is available at many car parks."
+    },
+    "dining": {
+      "title": "Restaurants & Cafés",
+      "desc": "There are no stalls or eateries on the bridge deck. Within walking distance on Wilhelminapier, Kop van Zuid and in the city centre you will find cafés, casual eateries and fine-dining restaurants, including terraces along the waterfront. For a lighter or budget-friendly meal, supermarkets, bakeries, food markets and take-away spots are a practical option. It is wise to book a table in the evening."
+    },
+    "accommodation": {
+      "title": "Accommodation",
+      "desc": "There is no lodging on the bridge. Nearby, hotels, hostels, bed & breakfasts and serviced apartments are spread across the city centre and the Kop van Zuid / Wilhelminapier district, the latter offering many rooms with harbour or skyline views. Prices vary widely by type and season; book well ahead during events such as the Rotterdam Marathon, King's Day or World Port Days."
+    },
+    "supermarkets": {
+      "title": "Supermarkets & Everyday Shopping",
+      "desc": "Supermarkets and small convenience stores can be found in the city centre and on Kop van Zuid, typically open daily from about 08:00 to 22:00 with shorter Sunday hours. The indoor market hall on the north bank sells fresh produce and prepared food. They are handy for picnic supplies, drinks and snacks before crossing the bridge or relaxing on the waterfront."
+    },
+    "fuelCharging": {
+      "title": "Fuel & EV Charging",
+      "desc": "There is no petrol station on the bridge. Fuel stations are located on the main access roads and ring roads around the city. Electric charging points are found on many streets as well as in car parks and hotel garages, and most use common European connectors. Plan your fuel or charging stop before or after your visit to the bridge."
+    }
   }
 }

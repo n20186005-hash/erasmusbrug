@@ -434,5 +434,33 @@
       "rFog": { "risk": ["Mala visibilidad: los ferris y waterbuses pueden sufrir retrasos; ten cuidado al cruzar el puente"] },
       "rWind": { "risk": ["Viento fuerte: mantente alejado de las barandillas junto al río y de las estructuras abiertas altas"] }
     }
+  },
+  "amenities": {
+    "title": "Servicios cercanos – guía práctica",
+    "subtitle": "El Erasmusbrug es un puente público sin servicios propios. Baños, tiendas y restaurantes se encuentran en los barrios vecinos de Kop van Zuid, Wilhelminapier y el centro de la ciudad. La guía siguiente solo menciona tipos de servicios y se mantiene neutral: no se recomienda ningún negocio concreto.",
+    "toilets": {
+      "title": "Baños públicos (WC)",
+      "desc": "En el puente no hay baños. Los baños públicos más cercanos están en el centro de la ciudad y en la zona de Kop van Zuid / Wilhelminapier, por ejemplo en nudos de transporte, edificios públicos y parques. La mayoría de los baños públicos en los Países Bajos son de pago: una pequeña tarifa en monedas o sin contacto. Los baños de cafeterías y restaurantes suelen reservarse para los clientes."
+    },
+    "parking": {
+      "title": "Aparcamiento",
+      "desc": "Los coches no pueden circular por el propio puente; el aparcamiento se encuentra en las zonas de pago circundantes. Hay aparcamiento de pago en la calle y parkings cubiertos en el centro y alrededor de Kop van Zuid. Los parkings disuasorios (P+R) en las afueras suelen ser más baratos y conectan con el centro en tranvía o metro. Muchos parkings disponen de puntos de recarga eléctrica."
+    },
+    "dining": {
+      "title": "Restaurantes y cafeterías",
+      "desc": "En el tablero del puente no hay puestos ni locales de comida. A poca distancia a pie, en Wilhelminapier, Kop van Zuid y el centro, encontrarás cafeterías, restaurantes informales y de alta cocina, incluidas terrazas junto al agua. Para una comida ligera o económica, los supermercados, panaderías, mercados de alimentos y locales de comida para llevar son una opción práctica. Por la noche conviene reservar mesa."
+    },
+    "accommodation": {
+      "title": "Alojamiento",
+      "desc": "No se puede dormir en el puente. Hoteles, albergues, casas de huéspedes y apartamentos se reparten entre el centro de la ciudad y el barrio de Kop van Zuid / Wilhelminapier, este último con muchas habitaciones con vistas al puerto o a la skyline. Los precios varían mucho según el tipo y la temporada; reserva con antelación durante eventos como el Maratón de Róterdam, el Día del Rey (Koningsdag) o las World Port Days."
+    },
+    "supermarkets": {
+      "title": "Supermercados y compras diarias",
+      "desc": "Encontrarás supermercados y pequeñas tiendas de barrio en el centro y en Kop van Zuid, normalmente abiertos a diario de 08:00 a 22:00, con horarios más cortos los domingos. El mercado cubierto de la orilla norte vende productos frescos y comida preparada. Son prácticos para comprar comida de picnic, bebidas y tentempiés antes de cruzar el puente o sentarte junto al río."
+    },
+    "fuelCharging": {
+      "title": "Gasolina y recarga eléctrica",
+      "desc": "No hay gasolinera en el puente. Las estaciones de servicio se encuentran en las principales vías de acceso y en la ronda de circunvalación de la ciudad. Los puntos de recarga para coches eléctricos están en muchas calles y en parkings y garajes de hoteles; la mayoría usa conectores europeos habituales. Planifica la parada de combustible o carga antes o después de visitar el puente."
+    }
   }
 }

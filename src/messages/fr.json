@@ -434,5 +434,33 @@
       "rFog": { "risk": ["Visibilité réduite : les ferries et waterbus peuvent être retardés — soyez prudents en traversant le pont"] },
       "rWind": { "risk": ["Vent fort : éloignez-vous des garde-corps au bord de la rivière et des structures ouvertes élevées"] }
     }
+  },
+  "amenities": {
+    "title": "Commodités à proximité – guide pratique",
+    "subtitle": "L'Erasmusbrug est un pont public sans commodités propres. Toilettes, commerces et restaurants se trouvent dans les quartiers voisins de Kop van Zuid, Wilhelminapier et du centre-ville. Le guide ci-dessous ne mentionne que des types de services et reste neutre – aucun commerce n'est recommandé.",
+    "toilets": {
+      "title": "Toilettes publiques (WC)",
+      "desc": "Il n'y a pas de toilettes sur le pont lui-même. Les toilettes publiques les plus proches se trouvent dans le centre-ville et autour de Kop van Zuid / Wilhelminapier, par exemple aux nœuds de transport, dans les bâtiments publics et les parcs. La plupart des toilettes publiques aux Pays-Bas sont payantes, avec un petit montant en pièces ou sans contact. Les toilettes des cafés et des restaurants sont généralement réservées aux clients."
+    },
+    "parking": {
+      "title": "Stationnement",
+      "desc": "Les voitures ne peuvent pas accéder au pont lui-même ; le stationnement se fait dans les zones payantes alentour. On trouve du stationnement payant en voirie et des parkings couverts au centre-ville et autour de Kop van Zuid. Les parcs-relais (P+R) en périphérie sont généralement moins chers et reliés au centre par tram ou métro. La recharge électrique est disponible dans de nombreux parkings."
+    },
+    "dining": {
+      "title": "Restaurants et cafés",
+      "desc": "Il n'y a ni stands ni restaurants sur le tablier du pont. À pied, sur la Wilhelminapier, à Kop van Zuid et au centre-ville, vous trouverez des cafés, des restaurants simples et des tables plus gastronomiques, avec des terrasses au bord de l'eau. Pour un repas léger ou économique, supermarchés, boulangeries, halles alimentaires et plats à emporter sont une option pratique. Le soir, il est conseillé de réserver une table."
+    },
+    "accommodation": {
+      "title": "Hébergement",
+      "desc": "On ne dort pas sur le pont. Hôtels, auberges de jeunesse, chambres d'hôtes et appartements meublés sont répartis entre le centre-ville et le quartier de Kop van Zuid / Wilhelminapier, ce dernier offrant beaucoup de chambres avec vue sur le port ou la skyline. Les prix varient fortement selon le type et la saison. Réservez longtemps à l'avance lors d'événements comme le Marathon de Rotterdam, la Fête du Roi (Koningsdag) ou les World Port Days."
+    },
+    "supermarkets": {
+      "title": "Supermarchés et courses du quotidien",
+      "desc": "Supermarchés et petites épiceries se trouvent au centre-ville et à Kop van Zuid, ouverts généralement tous les jours d'environ 8h à 22h, avec des horaires réduits le dimanche. La halle couverte de la rive nord vend des produits frais et de la nourriture prête à consommer. Pratique pour un pique-nique, des boissons et des encas avant de traverser le pont ou de s'installer au bord de l'eau."
+    },
+    "fuelCharging": {
+      "title": "Carburant et recharge électrique",
+      "desc": "Il n'y a pas de station-service sur le pont. Les stations-service se trouvent sur les grands axes et le périphérique autour de la ville. Les bornes de recharge pour voitures électriques sont présentes dans de nombreuses rues ainsi que dans les parkings et garages d'hôtels ; la plupart utilisent des connecteurs européens courants. Planifiez votre arrêt carburant ou recharge avant ou après votre visite du pont."
+    }
   }
 }

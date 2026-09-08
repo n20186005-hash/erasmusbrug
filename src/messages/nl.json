@@ -434,5 +434,33 @@
       "rFog": { "risk": ["Slecht zicht: veerboten en waterbussen kunnen vertraging hebben — wees voorzichtig op de brug"] },
       "rWind": { "risk": ["Hard wind: blijf weg van relingen langs de rivier en hoge open constructies"] }
     }
+  },
+  "amenities": {
+    "title": "Faciliteiten in de buurt – praktische gids",
+    "subtitle": "De Erasmusbrug is een openbare brug zonder eigen voorzieningen. Diensten zoals toiletten, winkels en restaurants vind je in de omliggende wijken Kop van Zuid, Wilhelminapier en het stadscentrum. Onderstaande gids vermeldt alleen soorten voorzieningen en blijft neutraal – er worden geen specifieke bedrijven aanbevolen.",
+    "toilets": {
+      "title": "Openbare toiletten (wc)",
+      "desc": "Op de brug zelf zijn geen toiletten. De dichtstbijzijnde openbare toiletten vind je in het stadscentrum en rond Kop van Zuid / Wilhelminapier, bijvoorbeeld bij vervoersknooppunten, openbare gebouwen en parken. De meeste openbare toiletten in Nederland zijn betaaltoiletten met een kleine munt- of contactloze bijdrage. Toiletten in cafés en restaurants zijn meestal alleen voor gasten."
+    },
+    "parking": {
+      "title": "Parkeren",
+      "desc": "Met de auto kun je de brug zelf niet op; parkeren doe je in de betaalde zones eromheen. Er is betaald parkeren op straat en er zijn parkeergarages in het centrum en rond Kop van Zuid. P+R-terreinen aan de rand van de stad zijn meestal goedkoper en verbinden via tram of metro met het centrum. Elektrisch laden is bij veel parkeergarages mogelijk."
+    },
+    "dining": {
+      "title": "Eten en drinken",
+      "desc": "Op het brugdek zijn geen kraampjes of eetgelegenheden. Op loopafstand op de Wilhelminapier, aan Kop van Zuid en in het centrum vind je cafés, eetgelegenheden en restaurants, ook met terrassen aan het water. Voor een lichte of voordelige maaltijd zijn supermarkten, bakkers, levensmiddelenmarkten en afhaalzaken een praktische optie. Reserveer 's avonds bij voorkeur een tafel."
+    },
+    "accommodation": {
+      "title": "Overnachten",
+      "desc": "Op de brug kun je niet overnachten. Hotels, hostels, bed & breakfasts en appartementen vind je verspreid over het centrum en de wijk Kop van Zuid / Wilhelminapier; in die laatste wijk zijn veel kamers met uitzicht op de haven of de skyline. De prijzen verschillen sterk per type en seizoen. Reserveer ruim van tevoren tijdens evenementen zoals de Marathon van Rotterdam, Koningsdag of de Wereldhavendagen."
+    },
+    "supermarkets": {
+      "title": "Supermarkten en boodschappen",
+      "desc": "Supermarkten en kleine buurtwinkels vind je in het centrum en op Kop van Zuid, meestal dagelijks geopend van circa 08.00 tot 22.00 uur, met op zondag kortere openingstijden. De overdekte markthal op de noordoever verkoopt verse producten en kant-en-klaar eten. Handig voor picknickbenodigdheden, drinken en snacks voordat je de brug oversteekt of aan het water gaat zitten."
+    },
+    "fuelCharging": {
+      "title": "Benzine en elektrisch laden",
+      "desc": "Bij de brug is geen tankstation. Tankstations vind je op de belangrijkste toegangswegen en ringwegen rond de stad. Laadpalen voor elektrische auto's staan op veel straten en bij parkeergarages en hotelgarages; de meeste gebruiken gangbare Europese stekkers. Plan je tank- of laadstop voor of na je bezoek aan de brug."
+    }
   }
 }

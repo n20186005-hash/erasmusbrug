@@ -434,5 +434,33 @@
       "rFog": { "risk": ["Schlechte Sicht: Fähren und Wassertaxis können sich verspäten – beim Überqueren der Brücke Vorsicht"] },
       "rWind": { "risk": ["Starker Wind: Abstand zu Ufergeländern und hohen offenen Bauwerken halten"] }
     }
+  },
+  "amenities": {
+    "title": "Einrichtungen in der Nähe – praktischer Guide",
+    "subtitle": "Die Erasmusbrug ist eine öffentliche Brücke ohne eigene Einrichtungen. Toiletten, Geschäfte und Restaurants findest du in den angrenzenden Stadtteilen Kop van Zuid, Wilhelminapier und im Stadtzentrum. Der folgende Leitfaden nennt nur Arten von Angeboten und bleibt neutral – es werden keine konkreten Betriebe empfohlen.",
+    "toilets": {
+      "title": "Öffentliche Toiletten (WC)",
+      "desc": "Auf der Brücke selbst gibt es keine Toiletten. Die nächsten öffentlichen Toiletten liegen im Stadtzentrum und im Bereich Kop van Zuid / Wilhelminapier, zum Beispiel an Verkehrsknotenpunkten, in öffentlichen Gebäuden und Parks. Die meisten öffentlichen Toiletten in den Niederlanden sind Bezahltoiletten mit einer kleinen Münz- oder kontaktlosen Gebühr. Toiletten in Cafés und Restaurants sind in der Regel Gästen vorbehalten."
+    },
+    "parking": {
+      "title": "Parken",
+      "desc": "Die Brücke selbst ist für Autos gesperrt; geparkt wird in den umliegenden gebührenpflichtigen Zonen. Zur Auswahl stehen gebührenpflichtige Straßenparkplätze und Parkhäuser im Zentrum und rund um Kop van Zuid. P+R-Anlagen am Stadtrand sind meist günstiger und per Straßenbahn oder U-Bahn angebunden. In vielen Parkhäusern kann man Elektroautos laden."
+    },
+    "dining": {
+      "title": "Restaurants & Cafés",
+      "desc": "Auf dem Brückendeck gibt es keine Imbissstände oder Lokale. In fußläufiger Entfernung auf der Wilhelminapier, an Kop van Zuid und im Stadtzentrum findest du Cafés, einfache Lokale und gehobene Restaurants, auch mit Terrassen am Wasser. Für eine leichte oder günstige Mahlzeit sind Supermärkte, Bäckereien, Lebensmittelmärkte und Take-away-Angebote praktisch. Abends ist es ratsam, einen Tisch zu reservieren."
+    },
+    "accommodation": {
+      "title": "Unterkünfte",
+      "desc": "Auf der Brücke gibt es keine Übernachtungsmöglichkeiten. Hotels, Hostels, Bed & Breakfasts und Appartementangebote verteilen sich über das Stadtzentrum und das Viertel Kop van Zuid / Wilhelminapier – letzteres bietet viele Zimmer mit Hafen- oder Skylineblick. Die Preise schwanken stark nach Art und Saison. Buche frühzeitig bei Veranstaltungen wie dem Rotterdam-Marathon, am Königstag (Koningsdag) oder zu den World Port Days."
+    },
+    "supermarkets": {
+      "title": "Supermärkte & Alltagseinkäufe",
+      "desc": "Supermärkte und kleine Nahversorger findest du im Stadtzentrum und an Kop van Zuid, meist täglich von ca. 08:00 bis 22:00 Uhr geöffnet, sonntags mit kürzeren Zeiten. Die überdachte Markthalle am Nordufer bietet frische Produkte und fertig zubereitetes Essen. Praktisch für Picknick und Getränke, bevor du die Brücke überquerst oder dich am Wasser niederlässt."
+    },
+    "fuelCharging": {
+      "title": "Tanken & E-Auto laden",
+      "desc": "An der Brücke gibt es keine Tankstelle. Tankstellen liegen an den wichtigsten Zufahrtsstraßen und am Autobahnring der Stadt. Ladesäulen für Elektroautos findest du an vielen Straßen sowie in Parkhäusern und Hotelgaragen; die meisten nutzen übliche europäische Stecker. Plane Tank- oder Ladestopps am besten vor oder nach dem Brückenbesuch."
+    }
   }
 }

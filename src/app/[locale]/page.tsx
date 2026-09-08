@@ -7,6 +7,7 @@ import WeatherSection from '@/components/WeatherSection';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
+import AmenitiesSection from '@/components/AmenitiesSection';
 import InfoSection from '@/components/InfoSection';
 import RouteSection from '@/components/RouteSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
@@ -35,6 +36,7 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <AmenitiesSection />
         <InfoSection />
         <RouteSection />
         <PhotoSpotsSection />
